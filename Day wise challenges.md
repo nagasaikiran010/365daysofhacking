@@ -4,7 +4,7 @@
 
 # Day-2 [29-11-2022]
 
-https://tryhackme.com/room/winadbasics
+- [ ] https://tryhackme.com/room/winadbasics
 
 # Day-3 [30-11-2022]
 
