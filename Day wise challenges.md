@@ -12,8 +12,4 @@
 
 # Day-4 [01-12-2022]
 
-  https://tryhackme.com/room/adventofcyber4 
-
-```
-# task-1 to task-6
-```
+- [ ]  https://tryhackme.com/room/adventofcyber4 - task-6
