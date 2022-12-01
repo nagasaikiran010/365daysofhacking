@@ -14,6 +14,7 @@
 
 - [x]  https://tryhackme.com/room/adventofcyber4 - task-6
 - [x]  https://portswigger.net/web-security/authentication
+
        * 2FA simple bypass
        * Password reset broken logic
        
@@ -21,6 +22,7 @@
 
 - [ ]  https://tryhackme.com/room/adventofcyber4 - task-7
 - [ ]  https://portswigger.net/web-security/authentication
+
        * Username enumeration via response timing
        * Broken brute-force protection, IP block
        * Username enumeration via account lock
