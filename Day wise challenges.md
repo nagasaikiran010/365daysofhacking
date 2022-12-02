@@ -13,10 +13,4 @@
 # Day-3 [02-12-2022]
 
 
-- [ ]  https://tryhackme.com/room/adventofcyber4 - task-7
-- [ ]  https://portswigger.net/web-security/authentication
-
-       * Username enumeration via response timing
-       * Broken brute-force protection, IP block
-       * Username enumeration via account lock
-       * 2FA broken logic
+- [x]  https://tryhackme.com/room/adventofcyber4 - task-7
