@@ -14,3 +14,8 @@
 
 
 - [x]  https://tryhackme.com/room/adventofcyber4 - task-7
+- [x]  https://portswigger.net/web-security/sql-injection/lab-retrieve-hidden-data
+- [x]  https://portswigger.net/web-security/sql-injection/lab-login-bypass
+- [x]  https://portswigger.net/web-security/sql-injection/union-attacks/lab-find-column-containing-text
+- [x]  https://portswigger.net/web-security/sql-injection/union-attacks/lab-retrieve-data-from-other-tables
+- [x]  https://portswigger.net/web-security/sql-injection/union-attacks/lab-retrieve-multiple-values-in-single-column
