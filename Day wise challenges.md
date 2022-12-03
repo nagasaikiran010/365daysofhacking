@@ -26,3 +26,4 @@
 - [x]  https://portswigger.net/web-security/sql-injection/examining-the-database/lab-querying-database-version-mysql-microsoft
 - [x]  https://portswigger.net/web-security/sql-injection/examining-the-database/lab-listing-database-contents-non-oracle
 - [x]  https://portswigger.net/web-security/sql-injection/examining-the-database/lab-listing-database-contents-oracle
+- [x]  https://portswigger.net/web-security/cross-site-scripting/dom-based/lab-jquery-selector-hash-change-event
