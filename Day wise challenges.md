@@ -19,7 +19,7 @@
 - [x]  https://portswigger.net/web-security/sql-injection/union-attacks/lab-retrieve-data-from-other-tables
 - [x]  https://portswigger.net/web-security/sql-injection/union-attacks/lab-retrieve-multiple-values-in-single-column
 
-# Day-3 [03-12-2022]
+# Day-4 [03-12-2022]
 
 - [ ]  https://tryhackme.com/room/adventofcyber4 - task-8
 - [x]  https://portswigger.net/web-security/sql-injection/examining-the-database/lab-querying-database-version-oracle
