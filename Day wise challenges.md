@@ -21,9 +21,14 @@
 
 # Day-4 [03-12-2022]
 
-- [ ]  https://tryhackme.com/room/adventofcyber4 - task-8
+- [x]  https://tryhackme.com/room/adventofcyber4 - task-8
 - [x]  https://portswigger.net/web-security/sql-injection/examining-the-database/lab-querying-database-version-oracle
 - [x]  https://portswigger.net/web-security/sql-injection/examining-the-database/lab-querying-database-version-mysql-microsoft
 - [x]  https://portswigger.net/web-security/sql-injection/examining-the-database/lab-listing-database-contents-non-oracle
 - [x]  https://portswigger.net/web-security/sql-injection/examining-the-database/lab-listing-database-contents-oracle
 - [x]  https://portswigger.net/web-security/cross-site-scripting/dom-based/lab-jquery-selector-hash-change-event
+
+# Day-5 [04-12-2022]
+
+- [ ]  https://tryhackme.com/room/adventofcyber4 - task-9
+- [ ]  
