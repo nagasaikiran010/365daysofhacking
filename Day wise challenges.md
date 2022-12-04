@@ -31,4 +31,8 @@
 # Day-5 [04-12-2022]
 
 - [ ]  https://tryhackme.com/room/adventofcyber4 - task-9
-- [ ]  
+- [ ]  https://portswigger.net/web-security/sql-injection/blind/lab-conditional-responses
+- [ ]  https://portswigger.net/web-security/cross-site-scripting/content-security-policy/lab-very-strict-csp-with-dangling-markup-attack
+- [ ]  https://portswigger.net/web-security/cross-site-scripting/content-security-policy/lab-csp-bypass
+- [ ]  https://portswigger.net/web-security/request-smuggling/lab-obfuscating-te-header
+- [ ]  https://portswigger.net/web-security/request-smuggling/finding/lab-confirming-cl-te-via-differential-responses
