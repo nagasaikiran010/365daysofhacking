@@ -32,8 +32,7 @@
 
 - [x]  https://tryhackme.com/room/adventofcyber4 - task-9
 
-# Day-5 [05-12-2022]
-
+# Day-6 [05-12-2022]
 
 - [ ]  https://tryhackme.com/room/adventofcyber4 - task-10
 - [ ]  https://portswigger.net/web-security/sql-injection/blind/lab-conditional-responses
