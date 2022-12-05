@@ -31,6 +31,11 @@
 # Day-5 [04-12-2022]
 
 - [x]  https://tryhackme.com/room/adventofcyber4 - task-9
+
+# Day-5 [05-12-2022]
+
+
+- [ ]  https://tryhackme.com/room/adventofcyber4 - task-10
 - [ ]  https://portswigger.net/web-security/sql-injection/blind/lab-conditional-responses
 - [ ]  https://portswigger.net/web-security/cross-site-scripting/content-security-policy/lab-very-strict-csp-with-dangling-markup-attack
 - [ ]  https://portswigger.net/web-security/cross-site-scripting/content-security-policy/lab-csp-bypass
