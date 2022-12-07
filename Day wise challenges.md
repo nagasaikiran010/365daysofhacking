@@ -38,4 +38,4 @@
 
 # Day-7 [06-12-2022]
 
-- [ ]  https://tryhackme.com/room/adventofcyber4 - task-10
+- [x]  https://tryhackme.com/room/adventofcyber4 - task-10
