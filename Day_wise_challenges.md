@@ -40,6 +40,6 @@
 
 - [x]  https://tryhackme.com/room/adventofcyber4 - task-11
 
-# Day-8 [06-12-2022]
+# Day-8 [07-12-2022]
 
 - [ ]  https://tryhackme.com/room/adventofcyber4 - task-12
