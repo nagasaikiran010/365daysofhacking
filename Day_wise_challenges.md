@@ -59,4 +59,6 @@
 
 # Day-12 [11-12-2022]
 
-- [ ]  https://portswigger.net/web-security/sql-injection/blind/lab-conditional-errors
+- [x]  https://portswigger.net/web-security/sql-injection/blind/lab-conditional-errors
+- [x]  https://portswigger.net/web-security/sql-injection/blind/lab-time-delays
+- [ ]  https://portswigger.net/web-security/sql-injection/blind/lab-time-delays-info-retrieval
