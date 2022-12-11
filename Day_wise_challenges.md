@@ -66,3 +66,9 @@
 - [x]  https://portswigger.net/web-security/sql-injection/blind/lab-out-of-band-data-exfiltration
 - [x]  https://portswigger.net/web-security/sql-injection/lab-sql-injection-with-filter-bypass-via-xml-encoding
 - [ ]  https://tryhackme.com/room/adventofcyber4 - task-16
+
+# Day-13 [12-12-2022]
+
+- [ ] https://portswigger.net/web-security/cross-site-scripting/content-security-policy/lab-very-strict-csp-with-dangling-markup-attack
+- [ ] https://portswigger.net/web-security/cross-site-scripting/content-security-policy/lab-csp-bypass
+- [ ] https://tryhackme.com/room/adventofcyber4 - task-17
