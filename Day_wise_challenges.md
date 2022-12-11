@@ -61,4 +61,8 @@
 
 - [x]  https://portswigger.net/web-security/sql-injection/blind/lab-conditional-errors
 - [x]  https://portswigger.net/web-security/sql-injection/blind/lab-time-delays
-- [ ]  https://portswigger.net/web-security/sql-injection/blind/lab-time-delays-info-retrieval
+- [x]  https://portswigger.net/web-security/sql-injection/blind/lab-time-delays-info-retrieval
+- [x]  https://portswigger.net/web-security/sql-injection/blind/lab-out-of-band
+- [x]  https://portswigger.net/web-security/sql-injection/blind/lab-out-of-band-data-exfiltration
+- [x]  https://portswigger.net/web-security/sql-injection/lab-sql-injection-with-filter-bypass-via-xml-encoding
+- [ ]  https://tryhackme.com/room/adventofcyber4 - task-16
