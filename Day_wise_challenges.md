@@ -75,7 +75,7 @@
 
 # Day-14 [13-12-2022]
 
-- [ ] (https://tryhackme.com/room/adventofcyber4 - task-18
+- [ ] https://tryhackme.com/room/adventofcyber4 - task-18
 - [ ] https://portswigger.net/web-security/csrf/lab-no-defenses
 - [ ] https://portswigger.net/web-security/csrf/lab-token-validation-depends-on-request-method
 - [ ] https://portswigger.net/web-security/csrf/lab-token-validation-depends-on-token-being-present
@@ -84,3 +84,11 @@
 - [ ] https://portswigger.net/web-security/csrf/lab-token-duplicated-in-cookie
 - [ ] https://portswigger.net/web-security/csrf/lab-referer-validation-depends-on-header-being-present
 - [ ] https://portswigger.net/web-security/csrf/lab-referer-validation-broken
+
+# Day-15 [14-12-2022]
+- [ ] https://portswigger.net/web-security/clickjacking/lab-basic-csrf-protected
+- [ ] https://portswigger.net/web-security/clickjacking/lab-prefilled-form-input
+- [ ] https://portswigger.net/web-security/clickjacking/lab-frame-buster-script
+- [ ] https://portswigger.net/web-security/clickjacking/lab-exploiting-to-trigger-dom-based-xss
+- [ ] https://portswigger.net/web-security/clickjacking/lab-multistep
+- [ ] https://tryhackme.com/room/adventofcyber4 - task-18
