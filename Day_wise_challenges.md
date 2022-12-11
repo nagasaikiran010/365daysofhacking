@@ -72,11 +72,15 @@
 - [ ] https://portswigger.net/web-security/cross-site-scripting/content-security-policy/lab-very-strict-csp-with-dangling-markup-attack
 - [ ] https://portswigger.net/web-security/cross-site-scripting/content-security-policy/lab-csp-bypass
 - [ ] https://tryhackme.com/room/adventofcyber4 - task-17
-- [ ] https://academy.hackthebox.com/module/88/section/915
-
 
 # Day-14 [13-12-2022]
 
-- [ ] https://academy.hackthebox.com/module/88/section/916
-- [ ] https://tryhackme.com/room/adventofcyber4 - task-18
-
+- [ ] (https://tryhackme.com/room/adventofcyber4 - task-18
+- [ ] https://portswigger.net/web-security/csrf/lab-no-defenses
+- [ ] https://portswigger.net/web-security/csrf/lab-token-validation-depends-on-request-method
+- [ ] https://portswigger.net/web-security/csrf/lab-token-validation-depends-on-token-being-present
+- [ ] https://portswigger.net/web-security/csrf/lab-token-not-tied-to-user-session
+- [ ] https://portswigger.net/web-security/csrf/lab-token-tied-to-non-session-cookie
+- [ ] https://portswigger.net/web-security/csrf/lab-token-duplicated-in-cookie
+- [ ] https://portswigger.net/web-security/csrf/lab-referer-validation-depends-on-header-being-present
+- [ ] https://portswigger.net/web-security/csrf/lab-referer-validation-broken
