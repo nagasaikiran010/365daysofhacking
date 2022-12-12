@@ -71,7 +71,8 @@
 
 - [ ] https://portswigger.net/web-security/cross-site-scripting/content-security-policy/lab-very-strict-csp-with-dangling-markup-attack
 - [ ] https://portswigger.net/web-security/cross-site-scripting/content-security-policy/lab-csp-bypass
-- [ ] https://tryhackme.com/room/adventofcyber4 - task-17
+- [x] synce started point on hackthebox
+- [x] https://tryhackme.com/room/adventofcyber4 - task-17
 
 # Day-14 [13-12-2022]
 
