@@ -72,19 +72,20 @@
 - [x] https://portswigger.net/web-security/cross-site-scripting/content-security-policy/lab-very-strict-csp-with-dangling-markup-attack
 - [x] https://portswigger.net/web-security/cross-site-scripting/content-security-policy/lab-csp-bypass
 - [x] synce started point on hackthebox
-- [ ] https://tryhackme.com/room/adventofcyber4 - DAY-12
+- [x] https://tryhackme.com/room/adventofcyber4 - DAY-12
 
 # Day-14 [13-12-2022]
 
 - [ ] https://tryhackme.com/room/adventofcyber4 - DAY-13
-- [ ] https://portswigger.net/web-security/csrf/lab-no-defenses
-- [ ] https://portswigger.net/web-security/csrf/lab-token-validation-depends-on-request-method
-- [ ] https://portswigger.net/web-security/csrf/lab-token-validation-depends-on-token-being-present
-- [ ] https://portswigger.net/web-security/csrf/lab-token-not-tied-to-user-session
-- [ ] https://portswigger.net/web-security/csrf/lab-token-tied-to-non-session-cookie
-- [ ] https://portswigger.net/web-security/csrf/lab-token-duplicated-in-cookie
-- [ ] https://portswigger.net/web-security/csrf/lab-referer-validation-depends-on-header-being-present
+- [x] https://portswigger.net/web-security/csrf/lab-no-defenses
+- [x] https://portswigger.net/web-security/csrf/lab-token-validation-depends-on-request-method
+- [x] https://portswigger.net/web-security/csrf/lab-token-validation-depends-on-token-being-present
+- [x] https://portswigger.net/web-security/csrf/lab-token-not-tied-to-user-session
+- [x] https://portswigger.net/web-security/csrf/lab-token-tied-to-non-session-cookie
+- [x] https://portswigger.net/web-security/csrf/lab-token-duplicated-in-cookie
+- [x] https://portswigger.net/web-security/csrf/lab-referer-validation-depends-on-header-being-present
 - [ ] https://portswigger.net/web-security/csrf/lab-referer-validation-broken
+- [ ] https://www.coursera.org/learn/cybersecurity-roles-processes-operating-system-security/home/week/3
 
 # Day-15 [14-12-2022]
 - [ ] https://portswigger.net/web-security/clickjacking/lab-basic-csrf-protected
