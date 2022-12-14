@@ -76,7 +76,7 @@
 
 # Day-14 [13-12-2022]
 
-- [ ] https://tryhackme.com/room/adventofcyber4 - DAY-13
+- [x] https://tryhackme.com/room/adventofcyber4 - DAY-13
 - [x] https://portswigger.net/web-security/csrf/lab-no-defenses
 - [x] https://portswigger.net/web-security/csrf/lab-token-validation-depends-on-request-method
 - [x] https://portswigger.net/web-security/csrf/lab-token-validation-depends-on-token-being-present
@@ -85,7 +85,7 @@
 - [x] https://portswigger.net/web-security/csrf/lab-token-duplicated-in-cookie
 - [x] https://portswigger.net/web-security/csrf/lab-referer-validation-depends-on-header-being-present
 - [ ] https://portswigger.net/web-security/csrf/lab-referer-validation-broken
-- [ ] https://www.coursera.org/learn/cybersecurity-roles-processes-operating-system-security/home/week/3
+- [x] https://www.coursera.org/learn/cybersecurity-roles-processes-operating-system-security/home/week/3
 
 # Day-15 [14-12-2022]
 - [ ] https://portswigger.net/web-security/clickjacking/lab-basic-csrf-protected
