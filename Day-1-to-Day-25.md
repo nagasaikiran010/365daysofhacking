@@ -136,4 +136,3 @@
 # Day-19 [18-12-2022]
 
 - [ ] Funnel  machine hackthebox
-- [ ] 
