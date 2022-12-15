@@ -93,4 +93,42 @@
 - [ ] https://portswigger.net/web-security/clickjacking/lab-frame-buster-script
 - [ ] https://portswigger.net/web-security/clickjacking/lab-exploiting-to-trigger-dom-based-xss
 - [ ] https://portswigger.net/web-security/clickjacking/lab-multistep
-- [ ] https://tryhackme.com/room/adventofcyber4 - DAY-14
+- [x] https://tryhackme.com/room/adventofcyber4 - DAY-14
+- [ ] timelapse machine hackthebox
+
+# Day-16 [15-12-2022]
+
+- [ ] https://portswigger.net/web-security/dom-based/controlling-the-web-message-source/lab-dom-xss-using-web-messages
+- [ ] https://portswigger.net/web-security/dom-based/controlling-the-web-message-source/lab-dom-xss-using-web-messages-and-a-javascript-url
+- [ ] https://portswigger.net/web-security/dom-based/controlling-the-web-message-source/lab-dom-xss-using-web-messages-and-json-parse
+- [ ] https://portswigger.net/web-security/dom-based/open-redirection/lab-dom-open-redirection
+- [ ] https://portswigger.net/web-security/dom-based/cookie-manipulation/lab-dom-cookie-manipulation
+- [ ] https://portswigger.net/web-security/dom-based/dom-clobbering/lab-dom-xss-exploiting-dom-clobbering
+- [ ] https://portswigger.net/web-security/dom-based/dom-clobbering/lab-dom-clobbering-attributes-to-bypass-html-filters
+- [ ] trick hackthebox machine
+- [ ] https://tryhackme.com/room/adventofcyber4 - DAY-15
+
+
+# Day-17 [16-12-2022]
+
+- [ ] https://tryhackme.com/room/adventofcyber4 - DAY-16
+- [ ] Thenotebook machine hackthebox
+- [ ] https://portswigger.net/web-security/cors/lab-basic-origin-reflection-attack
+- [ ] https://portswigger.net/web-security/cors/lab-null-origin-whitelisted-attack
+- [ ] https://portswigger.net/web-security/cors/lab-breaking-https-attack
+- [ ] https://portswigger.net/web-security/cors/lab-internal-network-pivot-attack
+
+
+# Day-18 [17-12-2022]
+
+- [ ] Forest machine hackthebox
+- [ ] https://tryhackme.com/room/adventofcyber4 - DAY-17
+- [ ] https://portswigger.net/web-security/xxe/lab-exploiting-xxe-to-retrieve-files
+- [ ] https://portswigger.net/web-security/xxe/lab-exploiting-xxe-to-perform-ssrf
+- [ ] https://portswigger.net/web-security/xxe/blind/lab-xxe-with-out-of-band-interaction
+- [ ] https://portswigger.net/web-security/xxe/blind/lab-xxe-with-out-of-band-interaction-using-parameter-entities
+- [ ] https://portswigger.net/web-security/xxe/blind/lab-xxe-with-out-of-band-exfiltration
+- [ ] https://portswigger.net/web-security/xxe/blind/lab-xxe-with-data-retrieval-via-error-messages
+- [ ] https://portswigger.net/web-security/xxe/lab-xinclude-attack
+- [ ] https://portswigger.net/web-security/xxe/lab-xxe-via-file-upload
+- [ ] https://portswigger.net/web-security/xxe/blind/lab-xxe-trigger-error-message-by-repurposing-local-dtd
