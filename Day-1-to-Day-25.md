@@ -132,3 +132,8 @@
 - [ ] https://portswigger.net/web-security/xxe/lab-xinclude-attack
 - [ ] https://portswigger.net/web-security/xxe/lab-xxe-via-file-upload
 - [ ] https://portswigger.net/web-security/xxe/blind/lab-xxe-trigger-error-message-by-repurposing-local-dtd
+
+# Day-19 [18-12-2022]
+
+- [ ] Funnel  machine hackthebox
+- [ ] 
