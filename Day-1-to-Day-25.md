@@ -84,7 +84,7 @@
 - [x] https://portswigger.net/web-security/csrf/lab-token-tied-to-non-session-cookie
 - [x] https://portswigger.net/web-security/csrf/lab-token-duplicated-in-cookie
 - [x] https://portswigger.net/web-security/csrf/lab-referer-validation-depends-on-header-being-present
-- [ ] https://portswigger.net/web-security/csrf/lab-referer-validation-broken
+- [x] https://portswigger.net/web-security/csrf/lab-referer-validation-broken
 - [x] https://www.coursera.org/learn/cybersecurity-roles-processes-operating-system-security/home/week/3
 
 # Day-15 [14-12-2022]
