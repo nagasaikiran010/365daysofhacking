@@ -88,11 +88,11 @@
 - [x] https://www.coursera.org/learn/cybersecurity-roles-processes-operating-system-security/home/week/3
 
 # Day-15 [14-12-2022]
-- [ ] https://portswigger.net/web-security/clickjacking/lab-basic-csrf-protected
-- [ ] https://portswigger.net/web-security/clickjacking/lab-prefilled-form-input
-- [ ] https://portswigger.net/web-security/clickjacking/lab-frame-buster-script
-- [ ] https://portswigger.net/web-security/clickjacking/lab-exploiting-to-trigger-dom-based-xss
-- [ ] https://portswigger.net/web-security/clickjacking/lab-multistep
+- [x] https://portswigger.net/web-security/clickjacking/lab-basic-csrf-protected
+- [x] https://portswigger.net/web-security/clickjacking/lab-prefilled-form-input
+- [x] https://portswigger.net/web-security/clickjacking/lab-frame-buster-script
+- [x] https://portswigger.net/web-security/clickjacking/lab-exploiting-to-trigger-dom-based-xss
+- [x] https://portswigger.net/web-security/clickjacking/lab-multistep
 - [x] https://tryhackme.com/room/adventofcyber4 - DAY-14
 - [ ] timelapse machine hackthebox
 
