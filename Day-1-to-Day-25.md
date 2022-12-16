@@ -106,7 +106,7 @@
 - [ ] https://portswigger.net/web-security/dom-based/dom-clobbering/lab-dom-xss-exploiting-dom-clobbering
 - [ ] https://portswigger.net/web-security/dom-based/dom-clobbering/lab-dom-clobbering-attributes-to-bypass-html-filters
 - [ ] trick hackthebox machine
-- [ ] https://tryhackme.com/room/adventofcyber4 - DAY-15
+- [x] https://tryhackme.com/room/adventofcyber4 - DAY-15
 
 
 # Day-17 [16-12-2022]
