@@ -98,13 +98,13 @@
 
 # Day-16 [15-12-2022]
 
-- [ ] https://portswigger.net/web-security/dom-based/controlling-the-web-message-source/lab-dom-xss-using-web-messages
-- [ ] https://portswigger.net/web-security/dom-based/controlling-the-web-message-source/lab-dom-xss-using-web-messages-and-a-javascript-url
-- [ ] https://portswigger.net/web-security/dom-based/controlling-the-web-message-source/lab-dom-xss-using-web-messages-and-json-parse
-- [ ] https://portswigger.net/web-security/dom-based/open-redirection/lab-dom-open-redirection
-- [ ] https://portswigger.net/web-security/dom-based/cookie-manipulation/lab-dom-cookie-manipulation
-- [ ] https://portswigger.net/web-security/dom-based/dom-clobbering/lab-dom-xss-exploiting-dom-clobbering
-- [ ] https://portswigger.net/web-security/dom-based/dom-clobbering/lab-dom-clobbering-attributes-to-bypass-html-filters
+- [x] https://portswigger.net/web-security/dom-based/controlling-the-web-message-source/lab-dom-xss-using-web-messages
+- [x] https://portswigger.net/web-security/dom-based/controlling-the-web-message-source/lab-dom-xss-using-web-messages-and-a-javascript-url
+- [x] https://portswigger.net/web-security/dom-based/controlling-the-web-message-source/lab-dom-xss-using-web-messages-and-json-parse
+- [x] https://portswigger.net/web-security/dom-based/open-redirection/lab-dom-open-redirection
+- [x] https://portswigger.net/web-security/dom-based/cookie-manipulation/lab-dom-cookie-manipulation
+- [x] https://portswigger.net/web-security/dom-based/dom-clobbering/lab-dom-xss-exploiting-dom-clobbering
+- [x] https://portswigger.net/web-security/dom-based/dom-clobbering/lab-dom-clobbering-attributes-to-bypass-html-filters
 - [ ] trick hackthebox machine
 - [x] https://tryhackme.com/room/adventofcyber4 - DAY-15
 
