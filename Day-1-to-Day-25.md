@@ -111,10 +111,10 @@
 
 # Day-17 [16-12-2022]
 
-- [ ] https://tryhackme.com/room/adventofcyber4 - DAY-16
+- [x] https://tryhackme.com/room/adventofcyber4 - DAY-16
 - [ ] Thenotebook machine hackthebox
-- [ ] https://portswigger.net/web-security/cors/lab-basic-origin-reflection-attack
-- [ ] https://portswigger.net/web-security/cors/lab-null-origin-whitelisted-attack
+- [x] https://portswigger.net/web-security/cors/lab-basic-origin-reflection-attack
+- [x] https://portswigger.net/web-security/cors/lab-null-origin-whitelisted-attack
 - [ ] https://portswigger.net/web-security/cors/lab-breaking-https-attack
 - [ ] https://portswigger.net/web-security/cors/lab-internal-network-pivot-attack
 
@@ -122,7 +122,7 @@
 # Day-18 [17-12-2022]
 
 - [ ] Forest machine hackthebox
-- [ ] https://tryhackme.com/room/adventofcyber4 - DAY-17
+- [x] https://tryhackme.com/room/adventofcyber4 - DAY-17
 - [ ] https://portswigger.net/web-security/xxe/lab-exploiting-xxe-to-retrieve-files
 - [ ] https://portswigger.net/web-security/xxe/lab-exploiting-xxe-to-perform-ssrf
 - [ ] https://portswigger.net/web-security/xxe/blind/lab-xxe-with-out-of-band-interaction
@@ -136,3 +136,12 @@
 # Day-19 [18-12-2022]
 
 - [ ] Funnel  machine hackthebox
+- [ ] https://tryhackme.com/room/adventofcyber4 - DAY-18
+
+# Day-20 [19-12-2022]
+
+- [ ] https://tryhackme.com/room/adventofcyber4 - DAY-19
+
+# Day-21 [20-12-2022]
+
+- [ ] https://tryhackme.com/room/adventofcyber4 - DAY-20
