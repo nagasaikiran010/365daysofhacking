@@ -152,21 +152,37 @@
 # Day-22 [21-12-2022]
 
 - [ ] https://tryhackme.com/room/adventofcyber4 - DAY-21
+- [ ] https://portswigger.net/web-security/request-smuggling/lab-obfuscating-te-header
+- [ ] https://portswigger.net/web-security/request-smuggling/finding/lab-confirming-cl-te-via-differential-responses
+- [ ] https://portswigger.net/web-security/request-smuggling/finding/lab-confirming-te-cl-via-differential-responses
+- [ ] https://portswigger.net/web-security/request-smuggling/exploiting/lab-bypass-front-end-controls-cl-te
+- [ ] https://portswigger.net/web-security/request-smuggling/exploiting/lab-bypass-front-end-controls-te-cl
+- [ ] https://portswigger.net/web-security/request-smuggling/exploiting/lab-reveal-front-end-request-rewriting
+- [ ] https://portswigger.net/web-security/request-smuggling/exploiting/lab-capture-other-users-requests
+- [ ] https://portswigger.net/web-security/request-smuggling/exploiting/lab-deliver-reflected-xss
 
 # Day-23 [22-12-2022]
 
 - [ ] https://tryhackme.com/room/adventofcyber4 - DAY-22
+- [ ] https://portswigger.net/web-security/request-smuggling/advanced/response-queue-poisoning/lab-request-smuggling-h2-response-queue-poisoning-via-te-request-smuggling
+- [ ] https://portswigger.net/web-security/request-smuggling/advanced/lab-request-smuggling-h2-cl-request-smuggling
+- [ ] https://portswigger.net/web-security/request-smuggling/advanced/lab-request-smuggling-h2-request-smuggling-via-crlf-injection
+- [ ] https://portswigger.net/web-security/request-smuggling/browser/cl-0/lab-cl-0-request-smuggling
+- [ ] https://portswigger.net/web-security/request-smuggling/exploiting/lab-perform-web-cache-poisoning
+- [ ] https://portswigger.net/web-security/request-smuggling/exploiting/lab-perform-web-cache-deception
+- [ ] https://portswigger.net/web-security/request-smuggling/advanced/request-tunnelling/lab-request-smuggling-h2-bypass-access-controls-via-request-tunnelling
+- [ ] https://portswigger.net/web-security/request-smuggling/advanced/request-tunnelling/lab-request-smuggling-h2-web-cache-poisoning-via-request-tunnelling
 
 
-# Day-23 [23-12-2022]
+# Day-24 [23-12-2022]
 
 - [ ] https://tryhackme.com/room/adventofcyber4 - DAY-23
+- [ ] https://portswigger.net/web-security/request-smuggling/browser/client-side-desync/lab-client-side-desync
+- [ ] https://portswigger.net/web-security/request-smuggling/browser/client-side-desync/lab-browser-cache-poisoning-via-client-side-desync
+- [ ] https://portswigger.net/web-security/request-smuggling/browser/pause-based-desync/lab-server-side-pause-based-request-smuggling
 
-# Day-23 [24-12-2022]
+# Day-25 [24-12-2022]
 
 - [ ] https://tryhackme.com/room/adventofcyber4 - DAY-24
 
-# Day-23 [25-12-2022]
-
-- [ ] https://tryhackme.com/room/adventofcyber4 - DAY-25
 
