@@ -94,7 +94,6 @@
 - [x] https://portswigger.net/web-security/clickjacking/lab-exploiting-to-trigger-dom-based-xss
 - [x] https://portswigger.net/web-security/clickjacking/lab-multistep
 - [x] https://tryhackme.com/room/adventofcyber4 - DAY-14
-- [ ] timelapse machine hackthebox
 
 # Day-16 [15-12-2022]
 
@@ -121,15 +120,15 @@
 # Day-18 [17-12-2022]
 
 - [x] https://tryhackme.com/room/adventofcyber4 - DAY-17
-- [ ] https://portswigger.net/web-security/xxe/lab-exploiting-xxe-to-retrieve-files
-- [ ] https://portswigger.net/web-security/xxe/lab-exploiting-xxe-to-perform-ssrf
-- [ ] https://portswigger.net/web-security/xxe/blind/lab-xxe-with-out-of-band-interaction
-- [ ] https://portswigger.net/web-security/xxe/blind/lab-xxe-with-out-of-band-interaction-using-parameter-entities
-- [ ] https://portswigger.net/web-security/xxe/blind/lab-xxe-with-out-of-band-exfiltration
-- [ ] https://portswigger.net/web-security/xxe/blind/lab-xxe-with-data-retrieval-via-error-messages
-- [ ] https://portswigger.net/web-security/xxe/lab-xinclude-attack
-- [ ] https://portswigger.net/web-security/xxe/lab-xxe-via-file-upload
-- [ ] https://portswigger.net/web-security/xxe/blind/lab-xxe-trigger-error-message-by-repurposing-local-dtd
+- [x] https://portswigger.net/web-security/xxe/lab-exploiting-xxe-to-retrieve-files
+- [x] https://portswigger.net/web-security/xxe/lab-exploiting-xxe-to-perform-ssrf
+- [x] https://portswigger.net/web-security/xxe/blind/lab-xxe-with-out-of-band-interaction
+- [x] https://portswigger.net/web-security/xxe/blind/lab-xxe-with-out-of-band-interaction-using-parameter-entities
+- [x] https://portswigger.net/web-security/xxe/blind/lab-xxe-with-out-of-band-exfiltration
+- [x] https://portswigger.net/web-security/xxe/blind/lab-xxe-with-data-retrieval-via-error-messages
+- [x] https://portswigger.net/web-security/xxe/lab-xinclude-attack
+- [x] https://portswigger.net/web-security/xxe/lab-xxe-via-file-upload
+- [x] https://portswigger.net/web-security/xxe/blind/lab-xxe-trigger-error-message-by-repurposing-local-dtd
 
 # Day-19 [18-12-2022]
 
@@ -142,3 +141,10 @@
 # Day-21 [20-12-2022]
 
 - [ ] https://tryhackme.com/room/adventofcyber4 - DAY-20
+- [ ] https://portswigger.net/web-security/ssrf/lab-basic-ssrf-against-localhost
+- [ ] https://portswigger.net/web-security/ssrf/lab-basic-ssrf-against-backend-system
+- [ ] https://portswigger.net/web-security/ssrf/lab-ssrf-with-blacklist-filter
+- [ ] https://portswigger.net/web-security/ssrf/lab-ssrf-filter-bypass-via-open-redirection
+- [ ] https://portswigger.net/web-security/ssrf/blind/lab-out-of-band-detection
+- [ ] https://portswigger.net/web-security/ssrf/lab-ssrf-with-whitelist-filter
+- [ ] https://portswigger.net/web-security/ssrf/blind/lab-shellshock-exploitation
