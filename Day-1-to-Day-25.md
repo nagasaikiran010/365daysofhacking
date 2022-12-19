@@ -105,23 +105,21 @@
 - [x] https://portswigger.net/web-security/dom-based/cookie-manipulation/lab-dom-cookie-manipulation
 - [x] https://portswigger.net/web-security/dom-based/dom-clobbering/lab-dom-xss-exploiting-dom-clobbering
 - [x] https://portswigger.net/web-security/dom-based/dom-clobbering/lab-dom-clobbering-attributes-to-bypass-html-filters
-- [ ] trick hackthebox machine
+- [x] trick hackthebox machine
 - [x] https://tryhackme.com/room/adventofcyber4 - DAY-15
 
 
 # Day-17 [16-12-2022]
 
 - [x] https://tryhackme.com/room/adventofcyber4 - DAY-16
-- [ ] Thenotebook machine hackthebox
 - [x] https://portswigger.net/web-security/cors/lab-basic-origin-reflection-attack
 - [x] https://portswigger.net/web-security/cors/lab-null-origin-whitelisted-attack
-- [ ] https://portswigger.net/web-security/cors/lab-breaking-https-attack
-- [ ] https://portswigger.net/web-security/cors/lab-internal-network-pivot-attack
+- [x] https://portswigger.net/web-security/cors/lab-breaking-https-attack
+- [x] https://portswigger.net/web-security/cors/lab-internal-network-pivot-attack
 
 
 # Day-18 [17-12-2022]
 
-- [ ] Forest machine hackthebox
 - [x] https://tryhackme.com/room/adventofcyber4 - DAY-17
 - [ ] https://portswigger.net/web-security/xxe/lab-exploiting-xxe-to-retrieve-files
 - [ ] https://portswigger.net/web-security/xxe/lab-exploiting-xxe-to-perform-ssrf
@@ -135,7 +133,6 @@
 
 # Day-19 [18-12-2022]
 
-- [ ] Funnel  machine hackthebox
 - [x] https://tryhackme.com/room/adventofcyber4 - DAY-18
 
 # Day-20 [19-12-2022]
