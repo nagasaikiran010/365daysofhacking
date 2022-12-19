@@ -180,9 +180,17 @@
 - [ ] https://portswigger.net/web-security/request-smuggling/browser/client-side-desync/lab-client-side-desync
 - [ ] https://portswigger.net/web-security/request-smuggling/browser/client-side-desync/lab-browser-cache-poisoning-via-client-side-desync
 - [ ] https://portswigger.net/web-security/request-smuggling/browser/pause-based-desync/lab-server-side-pause-based-request-smuggling
+- [ ] https://portswigger.net/web-security/server-side-template-injection/exploiting/lab-server-side-template-injection-using-documentation
+- [ ] https://portswigger.net/web-security/server-side-template-injection/exploiting/lab-server-side-template-injection-in-an-unknown-language-with-a-documented-exploit
+- [ ] https://portswigger.net/web-security/server-side-template-injection/exploiting/lab-server-side-template-injection-with-information-disclosure-via-user-supplied-objects
+- [ ] https://portswigger.net/web-security/server-side-template-injection/exploiting/lab-server-side-template-injection-in-a-sandboxed-environment
+- [ ] https://portswigger.net/web-security/server-side-template-injection/exploiting/lab-server-side-template-injection-with-a-custom-exploit
 
 # Day-25 [24-12-2022]
 
 - [ ] https://tryhackme.com/room/adventofcyber4 - DAY-24
-
-
+- [ ] https://portswigger.net/web-security/access-control/lab-unprotected-admin-functionality
+- [ ] https://portswigger.net/web-security/access-control/lab-unprotected-admin-functionality-with-unpredictable-url
+- [ ] https://portswigger.net/web-security/access-control/lab-user-role-controlled-by-request-parameter
+- [ ] https://portswigger.net/web-security/access-control/lab-user-role-can-be-modified-in-user-profile
+- [ ] https://portswigger.net/web-security/access-control/lab-user-id-controlled-by-request-parameter
