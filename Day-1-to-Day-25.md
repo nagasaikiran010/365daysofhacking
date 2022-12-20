@@ -140,14 +140,14 @@
 
 # Day-21 [20-12-2022]
 
-- [ ] https://tryhackme.com/room/adventofcyber4 - DAY-20
-- [ ] https://portswigger.net/web-security/ssrf/lab-basic-ssrf-against-localhost
-- [ ] https://portswigger.net/web-security/ssrf/lab-basic-ssrf-against-backend-system
-- [ ] https://portswigger.net/web-security/ssrf/lab-ssrf-with-blacklist-filter
-- [ ] https://portswigger.net/web-security/ssrf/lab-ssrf-filter-bypass-via-open-redirection
-- [ ] https://portswigger.net/web-security/ssrf/blind/lab-out-of-band-detection
-- [ ] https://portswigger.net/web-security/ssrf/lab-ssrf-with-whitelist-filter
-- [ ] https://portswigger.net/web-security/ssrf/blind/lab-shellshock-exploitation
+- [x] https://tryhackme.com/room/adventofcyber4 - DAY-20
+- [x] https://portswigger.net/web-security/ssrf/lab-basic-ssrf-against-localhost
+- [x] https://portswigger.net/web-security/ssrf/lab-basic-ssrf-against-backend-system
+- [x] https://portswigger.net/web-security/ssrf/lab-ssrf-with-blacklist-filter
+- [x] https://portswigger.net/web-security/ssrf/lab-ssrf-filter-bypass-via-open-redirection
+- [x] https://portswigger.net/web-security/ssrf/blind/lab-out-of-band-detection
+- [x] https://portswigger.net/web-security/ssrf/lab-ssrf-with-whitelist-filter
+- [x] https://portswigger.net/web-security/ssrf/blind/lab-shellshock-exploitation
 
 # Day-22 [21-12-2022]
 
