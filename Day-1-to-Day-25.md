@@ -152,14 +152,14 @@
 # Day-22 [21-12-2022]
 
 - [ ] https://tryhackme.com/room/adventofcyber4 - DAY-21
-- [ ] https://portswigger.net/web-security/request-smuggling/lab-obfuscating-te-header
-- [ ] https://portswigger.net/web-security/request-smuggling/finding/lab-confirming-cl-te-via-differential-responses
-- [ ] https://portswigger.net/web-security/request-smuggling/finding/lab-confirming-te-cl-via-differential-responses
-- [ ] https://portswigger.net/web-security/request-smuggling/exploiting/lab-bypass-front-end-controls-cl-te
+- [x] https://portswigger.net/web-security/request-smuggling/lab-obfuscating-te-header
+- [x] https://portswigger.net/web-security/request-smuggling/finding/lab-confirming-cl-te-via-differential-responses
+- [x] https://portswigger.net/web-security/request-smuggling/finding/lab-confirming-te-cl-via-differential-responses
+- [x] https://portswigger.net/web-security/request-smuggling/exploiting/lab-bypass-front-end-controls-cl-te
 - [ ] https://portswigger.net/web-security/request-smuggling/exploiting/lab-bypass-front-end-controls-te-cl
 - [ ] https://portswigger.net/web-security/request-smuggling/exploiting/lab-reveal-front-end-request-rewriting
 - [ ] https://portswigger.net/web-security/request-smuggling/exploiting/lab-capture-other-users-requests
-- [ ] https://portswigger.net/web-security/request-smuggling/exploiting/lab-deliver-reflected-xss
+- [x] https://portswigger.net/web-security/request-smuggling/exploiting/lab-deliver-reflected-xss
 
 # Day-23 [22-12-2022]
 
