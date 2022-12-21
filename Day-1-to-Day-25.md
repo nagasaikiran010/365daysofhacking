@@ -156,9 +156,9 @@
 - [x] https://portswigger.net/web-security/request-smuggling/finding/lab-confirming-cl-te-via-differential-responses
 - [x] https://portswigger.net/web-security/request-smuggling/finding/lab-confirming-te-cl-via-differential-responses
 - [x] https://portswigger.net/web-security/request-smuggling/exploiting/lab-bypass-front-end-controls-cl-te
-- [ ] https://portswigger.net/web-security/request-smuggling/exploiting/lab-bypass-front-end-controls-te-cl
-- [ ] https://portswigger.net/web-security/request-smuggling/exploiting/lab-reveal-front-end-request-rewriting
-- [ ] https://portswigger.net/web-security/request-smuggling/exploiting/lab-capture-other-users-requests
+- [x] https://portswigger.net/web-security/request-smuggling/exploiting/lab-bypass-front-end-controls-te-cl
+- [x] https://portswigger.net/web-security/request-smuggling/exploiting/lab-reveal-front-end-request-rewriting
+- [x] https://portswigger.net/web-security/request-smuggling/exploiting/lab-capture-other-users-requests
 - [x] https://portswigger.net/web-security/request-smuggling/exploiting/lab-deliver-reflected-xss
 
 # Day-23 [22-12-2022]
