@@ -84,51 +84,79 @@
 - [x] https://portswigger.net/web-security/csrf/lab-token-tied-to-non-session-cookie
 - [x] https://portswigger.net/web-security/csrf/lab-token-duplicated-in-cookie
 - [x] https://portswigger.net/web-security/csrf/lab-referer-validation-depends-on-header-being-present
-- [ ] https://portswigger.net/web-security/csrf/lab-referer-validation-broken
+- [x] https://portswigger.net/web-security/csrf/lab-referer-validation-broken
 - [x] https://www.coursera.org/learn/cybersecurity-roles-processes-operating-system-security/home/week/3
 
 # Day-15 [14-12-2022]
-- [ ] https://portswigger.net/web-security/clickjacking/lab-basic-csrf-protected
-- [ ] https://portswigger.net/web-security/clickjacking/lab-prefilled-form-input
-- [ ] https://portswigger.net/web-security/clickjacking/lab-frame-buster-script
-- [ ] https://portswigger.net/web-security/clickjacking/lab-exploiting-to-trigger-dom-based-xss
-- [ ] https://portswigger.net/web-security/clickjacking/lab-multistep
+- [x] https://portswigger.net/web-security/clickjacking/lab-basic-csrf-protected
+- [x] https://portswigger.net/web-security/clickjacking/lab-prefilled-form-input
+- [x] https://portswigger.net/web-security/clickjacking/lab-frame-buster-script
+- [x] https://portswigger.net/web-security/clickjacking/lab-exploiting-to-trigger-dom-based-xss
+- [x] https://portswigger.net/web-security/clickjacking/lab-multistep
 - [x] https://tryhackme.com/room/adventofcyber4 - DAY-14
-- [ ] timelapse machine hackthebox
 
 # Day-16 [15-12-2022]
 
-- [ ] https://portswigger.net/web-security/dom-based/controlling-the-web-message-source/lab-dom-xss-using-web-messages
-- [ ] https://portswigger.net/web-security/dom-based/controlling-the-web-message-source/lab-dom-xss-using-web-messages-and-a-javascript-url
-- [ ] https://portswigger.net/web-security/dom-based/controlling-the-web-message-source/lab-dom-xss-using-web-messages-and-json-parse
-- [ ] https://portswigger.net/web-security/dom-based/open-redirection/lab-dom-open-redirection
-- [ ] https://portswigger.net/web-security/dom-based/cookie-manipulation/lab-dom-cookie-manipulation
-- [ ] https://portswigger.net/web-security/dom-based/dom-clobbering/lab-dom-xss-exploiting-dom-clobbering
-- [ ] https://portswigger.net/web-security/dom-based/dom-clobbering/lab-dom-clobbering-attributes-to-bypass-html-filters
-- [ ] trick hackthebox machine
-- [ ] https://tryhackme.com/room/adventofcyber4 - DAY-15
+- [x] https://portswigger.net/web-security/dom-based/controlling-the-web-message-source/lab-dom-xss-using-web-messages
+- [x] https://portswigger.net/web-security/dom-based/controlling-the-web-message-source/lab-dom-xss-using-web-messages-and-a-javascript-url
+- [x] https://portswigger.net/web-security/dom-based/controlling-the-web-message-source/lab-dom-xss-using-web-messages-and-json-parse
+- [x] https://portswigger.net/web-security/dom-based/open-redirection/lab-dom-open-redirection
+- [x] https://portswigger.net/web-security/dom-based/cookie-manipulation/lab-dom-cookie-manipulation
+- [x] https://portswigger.net/web-security/dom-based/dom-clobbering/lab-dom-xss-exploiting-dom-clobbering
+- [x] https://portswigger.net/web-security/dom-based/dom-clobbering/lab-dom-clobbering-attributes-to-bypass-html-filters
+- [x] trick hackthebox machine
+- [x] https://tryhackme.com/room/adventofcyber4 - DAY-15
 
 
 # Day-17 [16-12-2022]
 
-- [ ] https://tryhackme.com/room/adventofcyber4 - DAY-16
-- [ ] Thenotebook machine hackthebox
-- [ ] https://portswigger.net/web-security/cors/lab-basic-origin-reflection-attack
-- [ ] https://portswigger.net/web-security/cors/lab-null-origin-whitelisted-attack
-- [ ] https://portswigger.net/web-security/cors/lab-breaking-https-attack
-- [ ] https://portswigger.net/web-security/cors/lab-internal-network-pivot-attack
+- [x] https://tryhackme.com/room/adventofcyber4 - DAY-16
+- [x] https://portswigger.net/web-security/cors/lab-basic-origin-reflection-attack
+- [x] https://portswigger.net/web-security/cors/lab-null-origin-whitelisted-attack
+- [x] https://portswigger.net/web-security/cors/lab-breaking-https-attack
+- [x] https://portswigger.net/web-security/cors/lab-internal-network-pivot-attack
 
 
 # Day-18 [17-12-2022]
 
-- [ ] Forest machine hackthebox
-- [ ] https://tryhackme.com/room/adventofcyber4 - DAY-17
-- [ ] https://portswigger.net/web-security/xxe/lab-exploiting-xxe-to-retrieve-files
-- [ ] https://portswigger.net/web-security/xxe/lab-exploiting-xxe-to-perform-ssrf
-- [ ] https://portswigger.net/web-security/xxe/blind/lab-xxe-with-out-of-band-interaction
-- [ ] https://portswigger.net/web-security/xxe/blind/lab-xxe-with-out-of-band-interaction-using-parameter-entities
-- [ ] https://portswigger.net/web-security/xxe/blind/lab-xxe-with-out-of-band-exfiltration
-- [ ] https://portswigger.net/web-security/xxe/blind/lab-xxe-with-data-retrieval-via-error-messages
-- [ ] https://portswigger.net/web-security/xxe/lab-xinclude-attack
-- [ ] https://portswigger.net/web-security/xxe/lab-xxe-via-file-upload
-- [ ] https://portswigger.net/web-security/xxe/blind/lab-xxe-trigger-error-message-by-repurposing-local-dtd
+- [x] https://tryhackme.com/room/adventofcyber4 - DAY-17
+- [x] https://portswigger.net/web-security/xxe/lab-exploiting-xxe-to-retrieve-files
+- [x] https://portswigger.net/web-security/xxe/lab-exploiting-xxe-to-perform-ssrf
+- [x] https://portswigger.net/web-security/xxe/blind/lab-xxe-with-out-of-band-interaction
+- [x] https://portswigger.net/web-security/xxe/blind/lab-xxe-with-out-of-band-interaction-using-parameter-entities
+- [x] https://portswigger.net/web-security/xxe/blind/lab-xxe-with-out-of-band-exfiltration
+- [x] https://portswigger.net/web-security/xxe/blind/lab-xxe-with-data-retrieval-via-error-messages
+- [x] https://portswigger.net/web-security/xxe/lab-xinclude-attack
+- [x] https://portswigger.net/web-security/xxe/lab-xxe-via-file-upload
+- [x] https://portswigger.net/web-security/xxe/blind/lab-xxe-trigger-error-message-by-repurposing-local-dtd
+
+# Day-19 [18-12-2022]
+
+- [x] https://tryhackme.com/room/adventofcyber4 - DAY-18
+
+# Day-20 [19-12-2022]
+
+- [x] https://tryhackme.com/room/adventofcyber4 - DAY-19
+
+# Day-21 [20-12-2022]
+
+- [x] https://tryhackme.com/room/adventofcyber4 - DAY-20
+- [x] https://portswigger.net/web-security/ssrf/lab-basic-ssrf-against-localhost
+- [x] https://portswigger.net/web-security/ssrf/lab-basic-ssrf-against-backend-system
+- [x] https://portswigger.net/web-security/ssrf/lab-ssrf-with-blacklist-filter
+- [x] https://portswigger.net/web-security/ssrf/lab-ssrf-filter-bypass-via-open-redirection
+- [x] https://portswigger.net/web-security/ssrf/blind/lab-out-of-band-detection
+- [x] https://portswigger.net/web-security/ssrf/lab-ssrf-with-whitelist-filter
+- [x] https://portswigger.net/web-security/ssrf/blind/lab-shellshock-exploitation
+
+# Day-22 [21-12-2022]
+
+- [x] https://tryhackme.com/room/adventofcyber4 - DAY-21
+- [x] https://portswigger.net/web-security/request-smuggling/lab-obfuscating-te-header
+- [x] https://portswigger.net/web-security/request-smuggling/finding/lab-confirming-cl-te-via-differential-responses
+- [x] https://portswigger.net/web-security/request-smuggling/finding/lab-confirming-te-cl-via-differential-responses
+- [x] https://portswigger.net/web-security/request-smuggling/exploiting/lab-bypass-front-end-controls-cl-te
+- [x] https://portswigger.net/web-security/request-smuggling/exploiting/lab-bypass-front-end-controls-te-cl
+- [x] https://portswigger.net/web-security/request-smuggling/exploiting/lab-reveal-front-end-request-rewriting
+- [x] https://portswigger.net/web-security/request-smuggling/exploiting/lab-capture-other-users-requests
+- [x] https://portswigger.net/web-security/request-smuggling/exploiting/lab-deliver-reflected-xss
