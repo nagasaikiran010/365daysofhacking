@@ -151,7 +151,7 @@
 
 # Day-22 [21-12-2022]
 
-- [ ] https://tryhackme.com/room/adventofcyber4 - DAY-21
+- [x] https://tryhackme.com/room/adventofcyber4 - DAY-21
 - [x] https://portswigger.net/web-security/request-smuggling/lab-obfuscating-te-header
 - [x] https://portswigger.net/web-security/request-smuggling/finding/lab-confirming-cl-te-via-differential-responses
 - [x] https://portswigger.net/web-security/request-smuggling/finding/lab-confirming-te-cl-via-differential-responses
