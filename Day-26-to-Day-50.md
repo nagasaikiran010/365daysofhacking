@@ -5,30 +5,48 @@
 - [ ] https://portswigger.net/web-security/request-smuggling/browser/cl-0/lab-cl-0-request-smuggling
 - [ ] https://portswigger.net/web-security/request-smuggling/exploiting/lab-perform-web-cache-poisoning
 - [ ] https://portswigger.net/web-security/request-smuggling/exploiting/lab-perform-web-cache-deception
+
+# Day-27 [26-12-2022]
+
 - [ ] https://portswigger.net/web-security/request-smuggling/advanced/request-tunnelling/lab-request-smuggling-h2-bypass-access-controls-via-request-tunnelling
 - [ ] https://portswigger.net/web-security/request-smuggling/advanced/request-tunnelling/lab-request-smuggling-h2-web-cache-poisoning-via-request-tunnelling
 - [ ] https://portswigger.net/web-security/access-control/lab-url-based-access-control-can-be-circumvented
 - [ ] https://portswigger.net/web-security/access-control/lab-method-based-access-control-can-be-circumvented
+
+# Day-28 [27-12-2022]
+
 - [ ] https://portswigger.net/web-security/access-control/lab-multi-step-process-with-no-access-control-on-one-step
 - [ ] https://portswigger.net/web-security/access-control/lab-referer-based-access-control
 - [ ] https://portswigger.net/web-security/authentication/password-based/lab-username-enumeration-via-response-timing
 - [ ] https://portswigger.net/web-security/authentication/password-based/lab-broken-bruteforce-protection-ip-block
 - [ ] https://portswigger.net/web-security/request-smuggling/browser/client-side-desync/lab-client-side-desync
+
+# Day-29 [28-12-2022]
+
 - [ ] https://portswigger.net/web-security/request-smuggling/browser/client-side-desync/lab-browser-cache-poisoning-via-client-side-desync
 - [ ] https://portswigger.net/web-security/request-smuggling/browser/pause-based-desync/lab-server-side-pause-based-request-smuggling
 - [ ] https://portswigger.net/web-security/server-side-template-injection/exploiting/lab-server-side-template-injection-using-documentation
 - [ ] https://portswigger.net/web-security/server-side-template-injection/exploiting/lab-server-side-template-injection-in-an-unknown-language-with-a-documented-exploit
 - [ ] https://portswigger.net/web-security/server-side-template-injection/exploiting/lab-server-side-template-injection-with-information-disclosure-via-user-supplied-objects
+
+# Day-30 [29-12-2022]
+
 - [ ] https://portswigger.net/web-security/server-side-template-injection/exploiting/lab-server-side-template-injection-in-a-sandboxed-environment
 - [ ] https://portswigger.net/web-security/server-side-template-injection/exploiting/lab-server-side-template-injection-with-a-custom-exploit
 - [ ] https://portswigger.net/web-security/access-control/lab-unprotected-admin-functionality
 - [ ] https://portswigger.net/web-security/access-control/lab-unprotected-admin-functionality-with-unpredictable-url
 - [ ] https://portswigger.net/web-security/access-control/lab-user-role-controlled-by-request-parameter
+
+# Day-31 [30-12-2022]
+
 - [ ] https://portswigger.net/web-security/access-control/lab-user-role-can-be-modified-in-user-profile
 - [ ] https://portswigger.net/web-security/access-control/lab-user-id-controlled-by-request-parameter
 - [ ] https://portswigger.net/web-security/access-control/lab-user-role-can-be-modified-in-user-profile
 - [ ] https://portswigger.net/web-security/access-control/lab-user-id-controlled-by-request-parameter
 - [ ] https://portswigger.net/web-security/access-control/lab-user-id-controlled-by-request-parameter-with-unpredictable-user-ids
+
+# Day-32 [31-12-2022]
+
 - [ ] https://portswigger.net/web-security/access-control/lab-user-id-controlled-by-request-parameter-with-data-leakage-in-redirect
 - [ ] https://portswigger.net/web-security/access-control/lab-user-id-controlled-by-request-parameter-with-password-disclosure
 - [ ] https://portswigger.net/web-security/access-control/lab-insecure-direct-object-references
