@@ -163,40 +163,13 @@
 
 # Day-23 [22-12-2022]
 
-- [ ] https://tryhackme.com/room/adventofcyber4 - DAY-22
-- [ ] https://portswigger.net/web-security/request-smuggling/advanced/response-queue-poisoning/lab-request-smuggling-h2-response-queue-poisoning-via-te-request-smuggling
-- [ ] https://portswigger.net/web-security/request-smuggling/advanced/lab-request-smuggling-h2-cl-request-smuggling
-- [ ] https://portswigger.net/web-security/request-smuggling/advanced/lab-request-smuggling-h2-request-smuggling-via-crlf-injection
-- [ ] https://portswigger.net/web-security/request-smuggling/browser/cl-0/lab-cl-0-request-smuggling
-- [ ] https://portswigger.net/web-security/request-smuggling/exploiting/lab-perform-web-cache-poisoning
-- [ ] https://portswigger.net/web-security/request-smuggling/exploiting/lab-perform-web-cache-deception
-- [ ] https://portswigger.net/web-security/request-smuggling/advanced/request-tunnelling/lab-request-smuggling-h2-bypass-access-controls-via-request-tunnelling
-- [ ] https://portswigger.net/web-security/request-smuggling/advanced/request-tunnelling/lab-request-smuggling-h2-web-cache-poisoning-via-request-tunnelling
-
+- [x] https://tryhackme.com/room/adventofcyber4 - DAY-22
+- [x] https://portswigger.net/web-security/request-smuggling/advanced/response-queue-poisoning/lab-request-smuggling-h2-response-queue-poisoning-via-te-request-smuggling
 
 # Day-24 [23-12-2022]
 
-- [ ] https://tryhackme.com/room/adventofcyber4 - DAY-23
-- [ ] https://portswigger.net/web-security/request-smuggling/browser/client-side-desync/lab-client-side-desync
-- [ ] https://portswigger.net/web-security/request-smuggling/browser/client-side-desync/lab-browser-cache-poisoning-via-client-side-desync
-- [ ] https://portswigger.net/web-security/request-smuggling/browser/pause-based-desync/lab-server-side-pause-based-request-smuggling
-- [ ] https://portswigger.net/web-security/server-side-template-injection/exploiting/lab-server-side-template-injection-using-documentation
-- [ ] https://portswigger.net/web-security/server-side-template-injection/exploiting/lab-server-side-template-injection-in-an-unknown-language-with-a-documented-exploit
-- [ ] https://portswigger.net/web-security/server-side-template-injection/exploiting/lab-server-side-template-injection-with-information-disclosure-via-user-supplied-objects
-- [ ] https://portswigger.net/web-security/server-side-template-injection/exploiting/lab-server-side-template-injection-in-a-sandboxed-environment
-- [ ] https://portswigger.net/web-security/server-side-template-injection/exploiting/lab-server-side-template-injection-with-a-custom-exploit
+- [x] https://tryhackme.com/room/adventofcyber4 - DAY-23
 
 # Day-25 [24-12-2022]
 
 - [ ] https://tryhackme.com/room/adventofcyber4 - DAY-24
-- [ ] https://portswigger.net/web-security/access-control/lab-unprotected-admin-functionality
-- [ ] https://portswigger.net/web-security/access-control/lab-unprotected-admin-functionality-with-unpredictable-url
-- [ ] https://portswigger.net/web-security/access-control/lab-user-role-controlled-by-request-parameter
-- [ ] https://portswigger.net/web-security/access-control/lab-user-role-can-be-modified-in-user-profile
-- [ ] https://portswigger.net/web-security/access-control/lab-user-id-controlled-by-request-parameter
-- [ ] https://portswigger.net/web-security/access-control/lab-user-role-can-be-modified-in-user-profile
-- [ ] https://portswigger.net/web-security/access-control/lab-user-id-controlled-by-request-parameter
-- [ ] https://portswigger.net/web-security/access-control/lab-user-id-controlled-by-request-parameter-with-unpredictable-user-ids
-- [ ] https://portswigger.net/web-security/access-control/lab-user-id-controlled-by-request-parameter-with-data-leakage-in-redirect
-- [ ] https://portswigger.net/web-security/access-control/lab-user-id-controlled-by-request-parameter-with-password-disclosure
-- [ ] https://portswigger.net/web-security/access-control/lab-insecure-direct-object-references
