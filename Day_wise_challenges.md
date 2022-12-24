@@ -160,3 +160,16 @@
 - [x] https://portswigger.net/web-security/request-smuggling/exploiting/lab-reveal-front-end-request-rewriting
 - [x] https://portswigger.net/web-security/request-smuggling/exploiting/lab-capture-other-users-requests
 - [x] https://portswigger.net/web-security/request-smuggling/exploiting/lab-deliver-reflected-xss
+
+# Day-23 [22-12-2022]
+
+- [x] https://tryhackme.com/room/adventofcyber4 - DAY-22
+- [x] https://portswigger.net/web-security/request-smuggling/advanced/response-queue-poisoning/lab-request-smuggling-h2-response-queue-poisoning-via-te-request-smuggling
+
+# Day-24 [23-12-2022]
+
+- [x] https://tryhackme.com/room/adventofcyber4 - DAY-23
+
+# Day-25 [24-12-2022]
+
+- [ ] https://tryhackme.com/room/adventofcyber4 - DAY-24
