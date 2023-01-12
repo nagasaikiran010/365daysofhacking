@@ -8,10 +8,16 @@
 
 # Day-28 [27-12-2022]
 
-- [ ] https://tryhackme.com/room/cve202141773
+- [x] https://tryhackme.com/room/cve202141773
 
 # Day-29 [28-12-2022]
+
+https://tryhackme.com/room/spring4shell
+
 # Day-30 [29-12-2022]
+
+
+
 # Day-31 [30-12-2022]
 # Day-32 [31-12-2022]
 # Day-33 [01-01-2023]
