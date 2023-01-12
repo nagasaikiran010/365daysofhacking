@@ -172,4 +172,4 @@
 
 # Day-25 [24-12-2022]
 
-- [ ] https://tryhackme.com/room/adventofcyber4 - DAY-24
+- [x] https://tryhackme.com/room/adventofcyber4 - DAY-24
