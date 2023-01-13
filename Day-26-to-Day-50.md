@@ -16,27 +16,27 @@
 
 # Day-30 [29-12-2022]
 
-- [ ] https://tryhackme.com/room/commonattacks
+- [x] https://tryhackme.com/room/commonattacks
 
 # Day-31 [30-12-2022]
 
-- [ ] https://tryhackme.com/room/historyofmalware
+- [x] https://tryhackme.com/room/historyofmalware
 
 # Day-32 [31-12-2022]
 
-- [ ] https://tryhackme.com/room/pwnkit
+- [x] https://tryhackme.com/room/pwnkit
 
 # Day-33 [01-01-2023]
 
-- [ ] https://tryhackme.com/room/dirtypipe
+- [x] https://tryhackme.com/room/dirtypipe
 
 # Day-34 [02-01-2023]
 
-- [ ] https://tryhackme.com/room/sudovulnssamedit
+- [x] https://tryhackme.com/room/sudovulnssamedit
 
 # Day-35 [03-01-2023]
 
-- [ ] https://tryhackme.com/room/sudovulnsbof
+- [x] https://tryhackme.com/room/sudovulnsbof
 
 # Day-36 [04-01-2023]
 
