@@ -173,3 +173,63 @@
 # Day-25 [24-12-2022]
 
 - [x] https://tryhackme.com/room/adventofcyber4 - DAY-24
+
+# Day-26 [25-12-2022]
+
+- [x] https://tryhackme.com/room/introtooffensivesecurity
+
+# Day-27 [26-12-2022]
+
+- [x] https://tryhackme.com/room/introtocontainerisation
+
+# Day-28 [27-12-2022]
+
+- [x] https://tryhackme.com/room/cve202141773
+
+# Day-29 [28-12-2022]
+
+- [x] https://tryhackme.com/room/spring4shell
+
+# Day-30 [29-12-2022]
+
+- [x] https://tryhackme.com/room/commonattacks
+
+# Day-31 [30-12-2022]
+
+- [x] https://tryhackme.com/room/historyofmalware
+
+# Day-32 [31-12-2022]
+
+- [x] https://tryhackme.com/room/pwnkit
+
+# Day-33 [01-01-2023]
+
+- [x] https://tryhackme.com/room/dirtypipe
+
+# Day-34 [02-01-2023]
+
+- [x] https://tryhackme.com/room/sudovulnssamedit
+
+# Day-35 [03-01-2023]
+
+- [x] https://tryhackme.com/room/sudovulnsbof
+
+# Day-36 [04-01-2023]
+
+- [x] https://tryhackme.com/room/tmuxremux
+
+# Day-37 [05-01-2023]
+
+- [x] https://tryhackme.com/room/adventofcyber2 Day-1 to day - 6 
+
+# Day-38 [06-01-2023]
+
+- [x] https://tryhackme.com/room/adventofcyber2 Day-7 to day - 12
+
+# Day-39 [07-01-2023]
+
+- [x] https://tryhackme.com/room/adventofcyber2 Day-13 to day - 16
+
+# Day-40 [08-01-2023]
+
+- [x] https://tryhackme.com/room/adventofcyber2 Day-17 to day - 19
