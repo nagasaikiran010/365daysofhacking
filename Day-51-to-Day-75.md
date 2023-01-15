@@ -7,3 +7,5 @@
 - [ ] https://tryhackme.com/room/wgelctf
 
 # Day-53 [21-01-2023]
+
+- [ ] https://app.hackthebox.com/challenges/414
