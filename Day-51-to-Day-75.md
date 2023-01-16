@@ -15,7 +15,13 @@
 - [ ] Hackthebox starting point funnel
 
 # Day-55 [23-01-2023]
+
+- [ ]  https://app.hackthebox.com/machines/Soccer
+
 # Day-56 [24-01-2023]
+
+- [ ]  https://app.hackthebox.com/machines/Precious
+
 # Day-57 [25-01-2023]
 # Day-58 [26-01-2023]
 # Day-59 [27-01-2023]
