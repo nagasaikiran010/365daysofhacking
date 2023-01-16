@@ -256,14 +256,14 @@
 
 # Day-46 [14-01-2023]
 
-- [ ] https://tryhackme.com/room/introdigitalforensics
+- [x] https://tryhackme.com/room/introdigitalforensics
 
 # Day-47 [15-01-2023]
 
-- [ ] https://tryhackme.com/room/jrsecanalystintrouxo
+- [x] https://tryhackme.com/room/jrsecanalystintrouxo
 # Day-48 [16-01-2023]
 
-- [ ] https://tryhackme.com/room/redteamrecon
+- [x] https://tryhackme.com/room/redteamrecon
 
 # Day-49 [17-01-2023]
 
