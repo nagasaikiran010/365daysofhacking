@@ -23,9 +23,21 @@
 - [ ]  https://app.hackthebox.com/machines/Precious
 
 # Day-57 [25-01-2023]
+
+- [ ] https://app.hackthebox.com/machines/MetaTwo 
+
 # Day-58 [26-01-2023]
+
+- [ ] https://app.hackthebox.com/machines/BroScience
+
 # Day-59 [27-01-2023]
+
+- [ ] https://app.hackthebox.com/machines/Mentor
+
 # Day-60 [28-01-2023]
+
+- [ ] https://app.hackthebox.com/machines/Forgot
+
 # Day-61 [29-01-2023]
 # Day-62 [30-01-2023]
 # Day-63 [31-01-2023]
