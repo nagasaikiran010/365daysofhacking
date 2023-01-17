@@ -267,7 +267,7 @@
 
 # Day-49 [17-01-2023]
 
-- [ ] https://tryhackme.com/room/redteamengagements
+- [x] https://tryhackme.com/room/redteamengagements
 
 # Day-50 [18-01-2023]
 
