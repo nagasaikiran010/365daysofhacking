@@ -39,10 +39,25 @@
 - [ ] https://app.hackthebox.com/machines/Forgot
 
 # Day-61 [29-01-2023]
+
+- [ ] https://tryhackme.com/room/25daysofchristmas task - 1 to task - 10
+
 # Day-62 [30-01-2023]
+
+- [ ] https://tryhackme.com/room/25daysofchristmas task - 11 to task - 20
+
 # Day-63 [31-01-2023]
+
+- [ ] https://tryhackme.com/room/25daysofchristmas task - 21 to task - 30
+
 # Day-64 [01-02-2023]
+
+- [ ] https://tryhackme.com/room/chillhack 
+
 # Day-65 [02-02-2023]
+
+- [ ] https://tryhackme.com/room/bruteit
+
 # Day-66 [03-02-2023]
 # Day-67 [04-02-2023]
 # Day-68 [05-02-2023]
