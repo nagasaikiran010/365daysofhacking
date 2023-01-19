@@ -1,6 +1,6 @@
 # Day-51 [19-01-2023]
 
-- [ ] https://tryhackme.com/room/phishingemails1tryoe
+- [x] https://tryhackme.com/room/phishingemails1tryoe
 
 # Day-52 [20-01-2023]
 
