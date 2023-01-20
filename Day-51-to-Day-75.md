@@ -70,16 +70,16 @@
 - [ ] https://app.hackthebox.com/challenges/407
 
 # Day-69 [06-02-2023]
-https://app.hackthebox.com/challenges/406
+- [ ] https://app.hackthebox.com/challenges/406
 # Day-70 [07-02-2023]
-https://app.hackthebox.com/challenges/405
+- [ ] https://app.hackthebox.com/challenges/405
 # Day-71 [08-02-2023]
-https://app.hackthebox.com/challenges/423
+- [ ] https://app.hackthebox.com/challenges/423
 # Day-72 [09-02-2023]
-https://app.hackthebox.com/challenges/422
+- [ ] https://app.hackthebox.com/challenges/422
 # Day-73 [10-02-2023]
-https://app.hackthebox.com/challenges/421
+- [ ] https://app.hackthebox.com/challenges/421
 # Day-74 [11-02-2023]
-https://app.hackthebox.com/challenges/420
+- [ ] https://app.hackthebox.com/challenges/420
 # Day-75 [12-02-2023]
-https://app.hackthebox.com/challenges/410
+- [ ] https://app.hackthebox.com/challenges/410
