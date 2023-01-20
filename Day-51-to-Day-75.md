@@ -59,12 +59,27 @@
 - [ ] https://tryhackme.com/room/bruteit
 
 # Day-66 [03-02-2023]
+
+- [ ] https://app.hackthebox.com/challenges/412
+
 # Day-67 [04-02-2023]
+
+- [ ] https://app.hackthebox.com/challenges/411
 # Day-68 [05-02-2023]
+
+- [ ] https://app.hackthebox.com/challenges/407
+
 # Day-69 [06-02-2023]
+https://app.hackthebox.com/challenges/406
 # Day-70 [07-02-2023]
+https://app.hackthebox.com/challenges/405
 # Day-71 [08-02-2023]
+https://app.hackthebox.com/challenges/423
 # Day-72 [09-02-2023]
+https://app.hackthebox.com/challenges/422
 # Day-73 [10-02-2023]
+https://app.hackthebox.com/challenges/421
 # Day-74 [11-02-2023]
+https://app.hackthebox.com/challenges/420
 # Day-75 [12-02-2023]
+https://app.hackthebox.com/challenges/410
