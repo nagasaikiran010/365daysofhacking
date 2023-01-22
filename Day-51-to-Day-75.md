@@ -8,7 +8,7 @@
 
 # Day-53 [21-01-2023]
 
-- [ ] https://app.hackthebox.com/challenges/414
+- [x] https://tryhackme.com/room/bsidesgtlibrary
 
 # Day-54 [22-01-2023]
 
