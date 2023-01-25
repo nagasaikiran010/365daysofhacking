@@ -29,7 +29,7 @@
 
 # Day-58 [26-01-2023]
 
-- [ ] https://app.hackthebox.com/machines/BroScience
+- [ ] https://app.hackthebox.com/machines/Stocker
 
 # Day-59 [27-01-2023]
 
