@@ -1,5 +1,5 @@
 # Day-76 [13-02-2023]
-- [ ] https://app.hackthebox.com/machines/Stocker
+- [ ] https://app.hackthebox.com/machines/BroScience
 # Day-77 [14-02-2023]
 - [ ] https://app.hackthebox.com/machines/Awkward
 # Day-78 [15-02-2023]
