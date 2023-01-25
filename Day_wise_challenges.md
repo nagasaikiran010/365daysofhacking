@@ -176,50 +176,51 @@
 
 - [x] https://tryhackme.com/room/sudovulnssamedit
 # Day-35 [03-01-2023]
-
 - [x] https://tryhackme.com/room/sudovulnsbof
 # Day-36 [04-01-2023]
-
 - [x] https://tryhackme.com/room/tmuxremux
 # Day-37 [05-01-2023]
-
 - [x] https://tryhackme.com/room/adventofcyber2 Day-1 to day - 6 
 # Day-38 [06-01-2023]
-
 - [x] https://tryhackme.com/room/adventofcyber2 Day-7 to day - 12
 # Day-39 [07-01-2023]
-
 - [x] https://tryhackme.com/room/adventofcyber2 Day-13 to day - 16
 # Day-40 [08-01-2023]
-
 - [x] https://tryhackme.com/room/adventofcyber2 Day-17 to day - 19
 # Day-41 [09-01-2023]
-
 - [x] https://tryhackme.com/room/adventofcyber2 Day-20 to day - 24
 # Day-42 [10-01-2023]
-
 - [x] https://tryhackme.com/room/introwebapplicationsecurity
 # Day-43 [11-01-2023]
-
 - [x] https://tryhackme.com/room/redteamfundamentals
 # Day-44 [12-01-2023]
-
 - [x] https://tryhackme.com/room/defensivesecurityhq
 # Day-45 [13-01-2023]
-
 - [x] https://tryhackme.com/room/malmalintroductory
 # Day-46 [14-01-2023]
-
 - [x] https://tryhackme.com/room/introdigitalforensics
 # Day-47 [15-01-2023]
-
 - [x] https://tryhackme.com/room/jrsecanalystintrouxo
 # Day-48 [16-01-2023]
-
 - [x] https://tryhackme.com/room/redteamrecon
 # Day-49 [17-01-2023]
-
 - [x] https://tryhackme.com/room/redteamengagements
 # Day-50 [18-01-2023]
-
 - [x] https://tryhackme.com/room/brooklynninenine
+# Day-51 [19-01-2023]
+- [x] https://tryhackme.com/room/phishingemails1tryoe
+# Day-52 [20-01-2023]
+- [x] https://tryhackme.com/room/wgelctf
+# Day-53 [21-01-2023]
+- [x] https://tryhackme.com/room/bsidesgtlibrary
+# Day-54 [22-01-2023]
+- [x] Hackthebox starting point funnel
+# Day-55 [23-01-2023]
+- [x]  https://app.hackthebox.com/machines/Soccer
+# Day-56 [24-01-2023]
+- [x]  https://app.hackthebox.com/machines/Precious
+# Day-57 [25-01-2023]
+- [x] https://app.hackthebox.com/machines/MetaTwo 
+- [x] https://leetcode.com/problems/palindrome-number/
+- [x] https://leetcode.com/problems/roman-to-integer/
+- [x] https://leetcode.com/problems/longest-common-prefix/
