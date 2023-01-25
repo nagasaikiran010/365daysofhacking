@@ -19,11 +19,13 @@
 
 # Day-56 [24-01-2023]
 
-- [ ]  https://app.hackthebox.com/machines/Precious
+- [x]  https://app.hackthebox.com/machines/Precious
 
 # Day-57 [25-01-2023]
-
 - [ ] https://app.hackthebox.com/machines/MetaTwo 
+- [ ] https://leetcode.com/problems/palindrome-number/
+- [ ] https://leetcode.com/problems/roman-to-integer/
+- [ ] https://leetcode.com/problems/longest-common-prefix/
 
 # Day-58 [26-01-2023]
 
