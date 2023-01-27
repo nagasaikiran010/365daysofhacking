@@ -22,18 +22,20 @@
 - [x]  https://app.hackthebox.com/machines/Precious
 
 # Day-57 [25-01-2023]
-- [ ] https://app.hackthebox.com/machines/MetaTwo 
-- [ ] https://leetcode.com/problems/palindrome-number/
-- [ ] https://leetcode.com/problems/roman-to-integer/
-- [ ] https://leetcode.com/problems/longest-common-prefix/
-
+- [x] https://app.hackthebox.com/machines/MetaTwo 
+- [x] https://leetcode.com/problems/palindrome-number/
+- [x] https://leetcode.com/problems/roman-to-integer/
+- [x] https://leetcode.com/problems/longest-common-prefix/
 # Day-58 [26-01-2023]
-
-- [ ] https://app.hackthebox.com/machines/Stocker
-
+- [x] https://app.hackthebox.com/machines/Stocker
+- [x] https://leetcode.com/problems/valid-parentheses/
+- [x] https://leetcode.com/problems/merge-two-sorted-lists/
+- [x] https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 # Day-59 [27-01-2023]
-
 - [ ] https://app.hackthebox.com/machines/Mentor
+- [ ] https://leetcode.com/problems/remove-element/
+- [ ] https://leetcode.com/problems/search-insert-position/
+- [ ] https://leetcode.com/problems/length-of-last-word/
 
 # Day-60 [28-01-2023]
 
