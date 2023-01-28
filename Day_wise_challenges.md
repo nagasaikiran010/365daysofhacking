@@ -230,12 +230,15 @@
 - [x] https://leetcode.com/problems/merge-two-sorted-lists/
 - [x] https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 # Day-59 [27-01-2023]
-- [ ] https://app.hackthebox.com/machines/Mentor
-- [ ] https://leetcode.com/problems/remove-element/
-- [ ] https://leetcode.com/problems/search-insert-position/
-- [ ] https://leetcode.com/problems/length-of-last-word/
+- [x] https://app.hackthebox.com/machines/Mentor
+- [x] https://leetcode.com/problems/remove-element/
+- [x] https://leetcode.com/problems/search-insert-position/
+- [x] https://leetcode.com/problems/length-of-last-word/
 # Day-60 [28-01-2023]
-- [ ] https://app.hackthebox.com/machines/Forgot
+- [x] https://app.hackthebox.com/machines/Forgot
+- [ ] https://leetcode.com/problems/plus-one/
+- [ ] https://leetcode.com/problems/add-binary/
+- [ ] https://leetcode.com/problems/sqrtx/
 # Day-61 [29-01-2023]
 - [ ] https://tryhackme.com/room/25daysofchristmas task - 1 to task - 10
 # Day-62 [30-01-2023]
