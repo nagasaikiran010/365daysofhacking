@@ -236,39 +236,47 @@
 - [x] https://leetcode.com/problems/length-of-last-word/
 # Day-60 [28-01-2023]
 - [x] https://app.hackthebox.com/machines/Forgot
-- [ ] https://leetcode.com/problems/plus-one/
-- [ ] https://leetcode.com/problems/add-binary/
-- [ ] https://leetcode.com/problems/sqrtx/
+- [x] https://leetcode.com/problems/plus-one/
+- [x] https://leetcode.com/problems/add-binary/
+- [x] https://leetcode.com/problems/sqrtx/
 # Day-61 [29-01-2023]
-- [ ] https://tryhackme.com/room/25daysofchristmas task - 1 to task - 10
+- [x] https://tryhackme.com/room/25daysofchristmas task - 1 to task - 10
+- [x] https://leetcode.com/problems/climbing-stairs/
+- [x] https://leetcode.com/problems/remove-duplicates-from-sorted-list/
+- [x] https://leetcode.com/problems/merge-sorted-array/
 # Day-62 [30-01-2023]
-- [ ] https://tryhackme.com/room/25daysofchristmas task - 11 to task - 20
+- [x] https://tryhackme.com/room/25daysofchristmas task - 11 to task - 20
+- [x] https://leetcode.com/problems/binary-tree-inorder-traversal/
+- [x] https://leetcode.com/problems/same-tree/
+- [x] https://leetcode.com/problems/symmetric-tree/
 # Day-63 [31-01-2023]
-- [ ] https://tryhackme.com/room/25daysofchristmas task - 21 to task - 30
+- [x] https://tryhackme.com/room/25daysofchristmas task - 21 to task - 30
+- [x] https://leetcode.com/problems/add-two-numbers/
+- [x] https://leetcode.com/problems/longest-substring-without-repeating-characters/
 # Day-64 [01-02-2023]
-- [ ] https://tryhackme.com/room/chillhack 
+- [x] https://tryhackme.com/room/chillhack
 # Day-65 [02-02-2023]
 - [ ] https://tryhackme.com/room/bruteit
 # Day-66 [03-02-2023]
-- [ ] https://app.hackthebox.com/challenges/412
-# Day-67 [04-02-2023]
-- [ ] https://app.hackthebox.com/challenges/411
+- [ ] https://app.hackthebox.com/challenges/weather-app
+# Day-67 [04-02-2023]  
+- [ ] https://app.hackthebox.com/challenges/toxic
 # Day-68 [05-02-2023]
-- [ ] https://app.hackthebox.com/challenges/407
+- [ ] https://app.hackthebox.com/challenges/petpet-rcbee
 # Day-69 [06-02-2023]
-- [ ] https://app.hackthebox.com/challenges/406
+- [ ] https://app.hackthebox.com/challenges/abusehumandb
 # Day-70 [07-02-2023]
-- [ ] https://app.hackthebox.com/challenges/405
+- [ ] https://app.hackthebox.com/challenges/diogenes-rage
 # Day-71 [08-02-2023]
-- [ ] https://app.hackthebox.com/challenges/423
+- [ ] https://app.hackthebox.com/challenges/neonify
 # Day-72 [09-02-2023]
-- [ ] https://app.hackthebox.com/challenges/422
+- [ ] https://app.hackthebox.com/challenges/easterbunny
 # Day-73 [10-02-2023]
-- [ ] https://app.hackthebox.com/challenges/421
+- [ ] https://app.hackthebox.com/challenges/breaking-grad
 # Day-74 [11-02-2023]
-- [ ] https://app.hackthebox.com/challenges/420
+- [ ] https://app.hackthebox.com/challenges/twodots-horror
 # Day-75 [12-02-2023]
-- [ ] https://app.hackthebox.com/challenges/410
+- [ ] https://app.hackthebox.com/challenges/expressionalrebel
 # Day-76 [13-02-2023]
 - [ ] https://app.hackthebox.com/machines/BroScience
 # Day-77 [14-02-2023]
@@ -358,6 +366,10 @@
 # Day-119 [27-03-2023]
 - [ ] https://tryhackme.com/room/iotintro 
 # Day-120 [28-03-2023]
+- [ ] https://app.hackthebox.com/challenges/412
 # Day-121 [29-03-2023]
+- [ ] 
 # Day-122 [30-03-2023]
+- [ ] 
 # Day-123 [31-03-2023]
+- [ ] 
