@@ -221,38 +221,18 @@
 - [x]  https://app.hackthebox.com/machines/Precious
 # Day-57 [25-01-2023]
 - [x] https://app.hackthebox.com/machines/MetaTwo 
-- [x] https://leetcode.com/problems/palindrome-number/
-- [x] https://leetcode.com/problems/roman-to-integer/
-- [x] https://leetcode.com/problems/longest-common-prefix/
 # Day-58 [26-01-2023]
 - [x] https://app.hackthebox.com/machines/Stocker
-- [x] https://leetcode.com/problems/valid-parentheses/
-- [x] https://leetcode.com/problems/merge-two-sorted-lists/
-- [x] https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 # Day-59 [27-01-2023]
 - [x] https://app.hackthebox.com/machines/Mentor
-- [x] https://leetcode.com/problems/remove-element/
-- [x] https://leetcode.com/problems/search-insert-position/
-- [x] https://leetcode.com/problems/length-of-last-word/
 # Day-60 [28-01-2023]
 - [x] https://app.hackthebox.com/machines/Forgot
-- [x] https://leetcode.com/problems/plus-one/
-- [x] https://leetcode.com/problems/add-binary/
-- [x] https://leetcode.com/problems/sqrtx/
 # Day-61 [29-01-2023]
 - [x] https://tryhackme.com/room/25daysofchristmas task - 1 to task - 10
-- [x] https://leetcode.com/problems/climbing-stairs/
-- [x] https://leetcode.com/problems/remove-duplicates-from-sorted-list/
-- [x] https://leetcode.com/problems/merge-sorted-array/
 # Day-62 [30-01-2023]
 - [x] https://tryhackme.com/room/25daysofchristmas task - 11 to task - 20
-- [x] https://leetcode.com/problems/binary-tree-inorder-traversal/
-- [x] https://leetcode.com/problems/same-tree/
-- [x] https://leetcode.com/problems/symmetric-tree/
 # Day-63 [31-01-2023]
 - [x] https://tryhackme.com/room/25daysofchristmas task - 21 to task - 30
-- [x] https://leetcode.com/problems/add-two-numbers/
-- [x] https://leetcode.com/problems/longest-substring-without-repeating-characters/
 # Day-64 [01-02-2023]
 - [x] https://tryhackme.com/room/chillhack
 # Day-65 [02-02-2023]
