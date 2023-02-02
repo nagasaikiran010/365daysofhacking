@@ -256,7 +256,7 @@
 # Day-64 [01-02-2023]
 - [x] https://tryhackme.com/room/chillhack
 # Day-65 [02-02-2023]
-- [ ] https://tryhackme.com/room/bruteit
+- [x] https://tryhackme.com/room/bruteit
 # Day-66 [03-02-2023]
 - [ ] https://app.hackthebox.com/challenges/weather-app
 # Day-67 [04-02-2023]  
