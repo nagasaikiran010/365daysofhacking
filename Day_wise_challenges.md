@@ -238,13 +238,13 @@
 # Day-65 [02-02-2023]
 - [x] https://tryhackme.com/room/bruteit
 # Day-66 [03-02-2023]
-- [ ] https://app.hackthebox.com/challenges/weather-app
+- [x] https://app.hackthebox.com/challenges/weather-app
 # Day-67 [04-02-2023]  
-- [ ] https://app.hackthebox.com/challenges/toxic
+- [x] https://app.hackthebox.com/challenges/toxic
 # Day-68 [05-02-2023]
-- [ ] https://app.hackthebox.com/challenges/petpet-rcbee
+- [x] https://app.hackthebox.com/challenges/petpet-rcbee
 # Day-69 [06-02-2023]
-- [ ] https://app.hackthebox.com/challenges/abusehumandb
+- [x] https://app.hackthebox.com/challenges/abusehumandb
 # Day-70 [07-02-2023]
 - [ ] https://app.hackthebox.com/challenges/diogenes-rage
 # Day-71 [08-02-2023]
