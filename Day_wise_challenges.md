@@ -268,7 +268,7 @@
 # Day-70 [07-02-2023]
 - [x] https://app.hackthebox.com/challenges/diogenes-rage
 # Day-71 [08-02-2023]
-- [ ] https://tryhackme.com/room/mitre
+- [x] https://tryhackme.com/room/mitre
 # Day-72 [09-02-2023]
 - [ ] https://tryhackme.com/room/relevant
 # Day-73 [10-02-2023]
@@ -278,12 +278,12 @@
 # Day-75 [12-02-2023]
 - [ ] https://app.hackthebox.com/machines/Investigation
 # Day-76 [13-02-2023]
-- [ ] 
+- [ ] https://app.hackthebox.com/machines/Encoding
 # Day-77 [14-02-2023]
-- [ ] 
+- [ ] https://tryhackme.com/room/easypeasyctf
 # Day-78 [15-02-2023]
-- [ ] 
+- [ ] https://tryhackme.com/room/githappens
 # Day-79 [16-02-2023]
-- [ ] 
+- [ ] https://tryhackme.com/room/teamcw
 # Day-80 [17-02-2023]
-- [ ] 
+- [ ] https://tryhackme.com/room/committed
