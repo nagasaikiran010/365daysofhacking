@@ -276,7 +276,7 @@
 # Day-74 [11-02-2023]
 - [x] https://app.hackthebox.com/machines/Awkward
 # Day-75 [12-02-2023]
-- [ ] https://app.hackthebox.com/machines/Investigation
+- [x] https://app.hackthebox.com/machines/Investigation
 # Day-76 [13-02-2023]
 - [ ] https://app.hackthebox.com/machines/Encoding
 # Day-77 [14-02-2023]
