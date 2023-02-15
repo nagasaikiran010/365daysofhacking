@@ -278,17 +278,17 @@
 # Day-75 [12-02-2023]
 - [x] https://app.hackthebox.com/machines/Investigation
 # Day-76 [13-02-2023]
-- [ ] https://app.hackthebox.com/machines/Encoding
+- [x] https://tryhackme.com/room/easypeasyctf
 # Day-77 [14-02-2023]
-- [ ] https://tryhackme.com/room/easypeasyctf
+- [x] https://tryhackme.com/room/githappens
 # Day-78 [15-02-2023]
-- [ ] https://tryhackme.com/room/githappens
+- [x] https://tryhackme.com/room/teamcw
 # Day-79 [16-02-2023]
-- [ ] https://tryhackme.com/room/teamcw
-# Day-80 [17-02-2023]
 - [ ] https://tryhackme.com/room/committed
-# Day-81 [18-02-2023]
+# Day-80 [17-02-2023]
 - [ ] https://tryhackme.com/room/wonderland
+# Day-81 [18-02-2023]
+- [ ] 
 # Day-82 [19-02-2023]
 - [ ] https://tryhackme.com/room/learncyberin25days task - 1 to task - 10
 # Day-83 [20-02-2023]
