@@ -114,3 +114,5 @@ https://app.hackthebox.com/challenges/422
 https://app.hackthebox.com/challenges/421
 https://app.hackthebox.com/challenges/420
 https://app.hackthebox.com/challenges/410
+https://app.hackthebox.com/machines/Encoding 
+https://app.hackthebox.com/machines/Interface
