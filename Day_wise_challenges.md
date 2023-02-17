@@ -284,26 +284,6 @@
 # Day-78 [15-02-2023]
 - [x] https://tryhackme.com/room/teamcw
 # Day-79 [16-02-2023]
-- [ ] https://tryhackme.com/room/committed
+- [x] https://tryhackme.com/room/committed
 # Day-80 [17-02-2023]
-- [ ] https://tryhackme.com/room/wonderland
-# Day-81 [18-02-2023]
-- [ ] 
-# Day-82 [19-02-2023]
-- [ ] https://tryhackme.com/room/learncyberin25days task - 1 to task - 10
-# Day-83 [20-02-2023]
-- [ ] https://tryhackme.com/room/learncyberin25days task - 11 to task - 20
-# Day-84 [21-02-2023]
-- [ ] https://tryhackme.com/room/learncyberin25days task - 21 to task - 27
-# Day-85 [22-02-2023]
-- [ ] https://tryhackme.com/room/committed
-# Day-86 [23-02-2023]
-- [ ] https://tryhackme.com/room/dearqa
-# Day-87 [24-02-2023]
-- [ ] https://tryhackme.com/room/bolt
-# Day-88 [25-02-2023]
-- [ ] https://tryhackme.com/room/wifihacking101
-# Day-89 [26-02-2023]
-- [ ] https://tryhackme.com/room/wiresharkthebasics
-# Day-90 [27-02-2023]
-- [ ] https://tryhackme.com/room/chocolatefactory
+- [x] https://tryhackme.com/room/wonderland
