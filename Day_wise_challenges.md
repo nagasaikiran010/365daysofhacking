@@ -296,6 +296,8 @@
 # Day-84 [21-02-2023]
 - [x] https://tryhackme.com/room/dearqa
 # Day-85 [22-02-2023]
-- [ ] https://tryhackme.com/room/bolt
+- [x] https://tryhackme.com/room/bolt
 # Day-86 [23-02-2023]
-- [ ] https://tryhackme.com/room/wifihacking101
+- [x] https://tryhackme.com/room/wifihacking101
+# Day-87 [24-02-2023]
+- [x] https://tryhackme.com/room/wiresharkthebasics
