@@ -359,24 +359,16 @@
 - [x] https://tryhackme.com/room/0x41haz
 # Day-117 [26-03-2023]
 - [x] https://tryhackme.com/room/digdug
-# Day-118 [27-03-2023]
 - [x] https://tryhackme.com/room/cyberthreatintel
-# Day-119 [28-03-2023]
 - [x] https://tryhackme.com/room/learnowaspzap
+# Day-118 [27-03-2023]
+- [x] https://tryhackme.com/room/mrphisher
+- [x] https://app.hackthebox.com/machines/Socket
+# Day-119 [28-03-2023]
+- [x] https://tryhackme.com/room/anonymousplayground
 # Day-120 [29-03-2023]
-- [ ] 
+- [x] https://tryhackme.com/room/internal
 # Day-121 [30-03-2023]
-- [ ] 
+- [x] https://app.hackthebox.com/machines/Timelapse
 # Day-122 [31-03-2023]
-- [ ] 
-# Day-123 [01-04-2023]
-- [ ] 
-# Day-124 [02-04-2023]
-
-# Day-123 [03-04-2023]
-
-# Day-123 [04-04-2023]
-
-# Day-123 [05-04-2023]
-
-# Day-123 [06-04-2023]
+- [x] https://app.hackthebox.com/machines/Active
