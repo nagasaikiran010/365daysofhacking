@@ -439,4 +439,4 @@
 # Day-170 [18-05-2023]
 - [x] https://tryhackme.com/room/capture
 # Day-170 [18-05-2023]
-- [] https://tryhackme.com/room/gamingserver
+- [ ] https://tryhackme.com/room/gamingserver
