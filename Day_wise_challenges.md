@@ -399,12 +399,44 @@
 # Day-140 [18-04-2023]
 - [x] https://app.hackthebox.com/machines/Omni
 # Day-141 [19-04-2023]
-- [x] https://app.hackthebox.com/machines/Mailroom
 # Day-142 [20-04-2023]
+- [x] https://app.hackthebox.com/machines/Mailroom
 # Day-143 [21-04-2023]
 - [x] https://tryhackme.com/room/boilerctf2
 # Day-144 [22-04-2023]
+- [x] https://app.hackthebox.com/machines/Pikatwoo -  user flag
 # Day-145 [23-04-2023]
 # Day-146 [24-04-2023]
 # Day-147 [25-04-2023]
 - [x] https://tryhackme.com/room/gamezone
+# Day-148 [26-04-2023]
+- [x] https://tryhackme.com/room/corp
+# Day-149 [27-04-2023]
+- [x] https://app.hackthebox.com/machines/OnlyForYou - user flag
+# Day-150 [28-04-2023]
+# Day-151 [29-04-2023]
+# Day-152 [30-04-2023]
+# Day-153 [01-05-2023]
+# Day-154 [02-05-2023]
+# Day-155 [03-05-2023]
+# Day-156 [04-05-2023]
+# Day-157 [05-05-2023]
+# Day-158 [06-05-2023]
+# Day-159 [07-05-2023]
+# Day-160 [08-05-2023]
+# Day-161 [09-05-2023]
+# Day-162 [10-05-2023]
+# Day-163 [11-05-2023]
+- [x] https://app.hackthebox.com/machines/MonitorsTwo - user flag
+# Day-164 [12-05-2023]
+# Day-165 [13-05-2023]
+# Day-166 [14-05-2023]
+# Day-167 [15-05-2023]
+# Day-168 [16-05-2023]
+- [x] https://tryhackme.com/room/ide
+# Day-169 [17-05-2023]
+- [x] https://tryhackme.com/room/plottedtms
+# Day-170 [18-05-2023]
+- [x] https://tryhackme.com/room/capture
+# Day-170 [18-05-2023]
+- [] https://tryhackme.com/room/gamingserver
