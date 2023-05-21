@@ -440,5 +440,6 @@
 - [x] https://tryhackme.com/room/capture
 # Day-171 [19-05-2023]
 # Day-172 [20-05-2023]
+- [x] https://tryhackme.com/room/gamingserver
 # Day-173 [21-05-2023]
 - [x] https://tryhackme.com/room/wordpresscve202129447
