@@ -423,21 +423,21 @@
 # Day-157 [05-05-2023]
 # Day-158 [06-05-2023]
 # Day-159 [07-05-2023]
-- [ ] https://tryhackme.com/room/cyberheroes
+- [x] https://tryhackme.com/room/memoryforensics
 # Day-160 [08-05-2023]
-- [ ] https://tryhackme.com/room/breakoutthecage1
+- [ ] 
 # Day-161 [09-05-2023]
-- [ ] https://tryhackme.com/room/jackofalltrades
+- [ ] 
 # Day-162 [10-05-2023]
-- [ ] https://tryhackme.com/room/pokemon
+- [ ] 
 # Day-163 [11-05-2023]
 - [x] https://app.hackthebox.com/machines/MonitorsTwo - user flag
 # Day-164 [12-05-2023]
-- [ ] https://tryhackme.com/room/jason
+- [x] https://tryhackme.com/room/quotient
 # Day-165 [13-05-2023]
-- [ ] https://tryhackme.com/room/quotient
+- [x] https://tryhackme.com/room/b3dr0ck
 # Day-166 [14-05-2023]
-- [ ] https://tryhackme.com/room/surfer
+- [x] https://tryhackme.com/room/retro
 # Day-167 [15-05-2023]
 - [x] https://tryhackme.com/room/introtodockerk8pdqk
 # Day-168 [16-05-2023]
