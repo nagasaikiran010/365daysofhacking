@@ -381,19 +381,27 @@
 # Day-127 [05-04-2023]
 - [x] https://tryhackme.com/room/mrphisher
 # Day-128 [06-04-2023]
-- [ ] https://tryhackme.com/room/activedirectorybasics
+- [x] https://tryhackme.com/room/activedirectorybasics
 # Day-129 [07-04-2023]
 - [x] https://app.hackthebox.com/machines/Sauna user flag
 # Day-130 [08-04-2023]
+- [x] https://tryhackme.com/room/jackofalltrades
 # Day-131 [09-04-2023]
+- [x] https://tryhackme.com/room/hackervshacker
 # Day-132 [10-04-2023]
 - [x] https://app.hackthebox.com/machines/Busqueda
 # Day-133 [11-04-2023]
+- [ ]
 # Day-134 [12-04-2023]
+- [ ]
 # Day-135 [13-04-2023]
+- [ ]
 # Day-136 [14-04-2023]
+- [ ]
 # Day-137 [15-04-2023]
+- [ ]
 # Day-138 [16-04-2023]
+- [ ]
 # Day-139 [17-04-2023]
 - [x] https://app.hackthebox.com/machines/Tabby
 # Day-140 [18-04-2023]
@@ -406,7 +414,9 @@
 # Day-144 [22-04-2023]
 - [x] https://app.hackthebox.com/machines/Pikatwoo -  user flag
 # Day-145 [23-04-2023]
+- [ ]
 # Day-146 [24-04-2023]
+- [ ]
 # Day-147 [25-04-2023]
 - [x] https://tryhackme.com/room/gamezone
 # Day-148 [26-04-2023]
@@ -414,14 +424,23 @@
 # Day-149 [27-04-2023]
 - [x] https://app.hackthebox.com/machines/OnlyForYou - user flag
 # Day-150 [28-04-2023]
+- [ ]
 # Day-151 [29-04-2023]
+- [ ]
 # Day-152 [30-04-2023]
+- [ ]
 # Day-153 [01-05-2023]
+- [ ]
 # Day-154 [02-05-2023]
+- [ ]
 # Day-155 [03-05-2023]
+- [ ]
 # Day-156 [04-05-2023]
+- [ ]
 # Day-157 [05-05-2023]
+- [ ]
 # Day-158 [06-05-2023]
+- [ ]
 # Day-159 [07-05-2023]
 - [x] https://tryhackme.com/room/memoryforensics
 # Day-160 [08-05-2023]
@@ -429,7 +448,7 @@
 # Day-161 [09-05-2023]
 - [ ] 
 # Day-162 [10-05-2023]
-- [ ] 
+- [x] https://tryhackme.com/room/breakoutthecage1
 # Day-163 [11-05-2023]
 - [x] https://app.hackthebox.com/machines/MonitorsTwo - user flag
 # Day-164 [12-05-2023]
@@ -456,3 +475,5 @@
 - [x] https://tryhackme.com/room/juicydetails
 # Day-175 [23-05-2023]
 - [x] https://tryhackme.com/room/opacity
+# Day-176 [24-05-2023]
+- [x] https://tryhackme.com/room/pokemon
