@@ -391,7 +391,7 @@
 # Day-132 [10-04-2023]
 - [x] https://app.hackthebox.com/machines/Busqueda
 # Day-133 [11-04-2023]
-- [ ]
+- [x] https://tryhackme.com/room/flatline
 # Day-134 [12-04-2023]
 - [ ]
 # Day-135 [13-04-2023]
@@ -414,9 +414,9 @@
 # Day-144 [22-04-2023]
 - [x] https://app.hackthebox.com/machines/Pikatwoo -  user flag
 # Day-145 [23-04-2023]
-- [ ]
+- [x] https://tryhackme.com/room/cyberheroes
 # Day-146 [24-04-2023]
-- [ ]
+- [x] https://tryhackme.com/room/surfer
 # Day-147 [25-04-2023]
 - [x] https://tryhackme.com/room/gamezone
 # Day-148 [26-04-2023]
