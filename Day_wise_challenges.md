@@ -479,3 +479,5 @@
 - [x] https://tryhackme.com/room/pokemon
 # Day-177 [25-05-2023]
 - [x] https://app.hackthebox.com/machines/Pc
+# Day-178 [26-05-2023]
+- [x] https://tryhackme.com/room/basicmalwarere
