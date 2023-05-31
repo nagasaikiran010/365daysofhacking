@@ -481,3 +481,13 @@
 - [x] https://app.hackthebox.com/machines/Pc
 # Day-178 [26-05-2023]
 - [x] https://tryhackme.com/room/basicmalwarere
+# Day-179 [27-05-2023]
+- [x] https://tryhackme.com/room/gatekeeper
+# Day-180 [28-05-2023]
+- [x] https://tryhackme.com/room/autopsy2ze0
+# Day-181 [29-05-2023]
+- [x] https://tryhackme.com/room/valleype
+# Day-182 [30-05-2023]
+- [x] https://tryhackme.com/room/cmess
+# Day-183 [31-05-2023]
+- [x] https://tryhackme.com/room/road
