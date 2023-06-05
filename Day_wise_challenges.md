@@ -495,7 +495,8 @@
 - [x] https://tryhackme.com/room/tokyoghoul666
 # Day-185 [02-06-2023]
 - [x] https://tryhackme.com/room/lookingglass
-
-
-
+# Day-186 [03-06-2023]
+# Day-187 [04-06-2023]
+# Day-188 [05-06-2023]
+- [x] https://tryhackme.com/room/goldeneye
 https://dnsdumpster.com/static/map/pinelabs.com.png
