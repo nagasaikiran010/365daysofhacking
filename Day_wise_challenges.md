@@ -444,7 +444,7 @@
 # Day-159 [07-05-2023]
 - [x] https://tryhackme.com/room/memoryforensics
 # Day-160 [08-05-2023]
-- [ ] 
+- [ ]
 # Day-161 [09-05-2023]
 - [x] https://tryhackme.com/room/biohazard
 # Day-162 [10-05-2023]
@@ -496,7 +496,22 @@
 # Day-185 [02-06-2023]
 - [x] https://tryhackme.com/room/lookingglass
 # Day-186 [03-06-2023]
+- [x] https://tryhackme.com/room/ollie
 # Day-187 [04-06-2023]
+- [ ]
 # Day-188 [05-06-2023]
 - [x] https://tryhackme.com/room/goldeneye
-https://dnsdumpster.com/static/map/pinelabs.com.png
+# Day-189 [06-06-2023]
+- [x] https://tryhackme.com/room/c2carnage
+# Day-190 [07-06-2023]
+- [x] https://tryhackme.com/room/ohmyweb
+# Day-191 [08-06-2023]
+- [x] https://tryhackme.com/room/convertmyvideo
+# Day-192 [09-06-2023]
+- [ ]
+# Day-193 [10-06-2023]
+- [ ]
+# Day-194 [11-06-2023]
+- [ ]
+# Day-195 [12-06-2023]
+- [x] https://tryhackme.com/room/empline
