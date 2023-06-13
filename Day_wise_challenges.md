@@ -515,5 +515,6 @@
 - [x] https://tryhackme.com/room/goldeneye
 # Day-195 [12-06-2023]
 - [x] https://tryhackme.com/room/empline
-
+# Day-196 [13-06-2023]
+- [x] https://app.hackthebox.com/machines/Topology
 
