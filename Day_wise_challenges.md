@@ -524,3 +524,15 @@
 - [x] https://app.hackthebox.com/challenges/bashic-calculator
 # Day-203 [20-06-2023]
 - [x] https://tryhackme.com/room/theblobblog
+# Day-204 [21-06-2023]
+- [x] https://app.hackthebox.com/challenges/the-needle
+# Day-205 [22-06-2023]
+- [ ]
+# Day-206 [23-06-2023]
+- [ ]
+# Day-207 [24-06-2023]
+- [x] https://tryhackme.com/room/snortchallenges2
+# Day-208 [25-06-2023]
+- [ ] 
+# Day-209 [26-06-2023]
+- [x] https://tryhackme.com/room/cmspit 
