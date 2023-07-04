@@ -433,11 +433,11 @@
 # Day-157 [05-05-2023]
 - [x] https://tryhackme.com/room/ctfonepiece65
 # Day-158 [06-05-2023]
-- [ ]
+- [x] https://tryhackme.com/room/battery
 # Day-159 [07-05-2023]
 - [x] https://tryhackme.com/room/memoryforensics
 # Day-160 [08-05-2023]
-- [ ]
+- [x] https://tryhackme.com/room/revenge
 # Day-161 [09-05-2023]
 - [x] https://tryhackme.com/room/biohazard
 # Day-162 [10-05-2023]
@@ -527,12 +527,28 @@
 # Day-204 [21-06-2023]
 - [x] https://app.hackthebox.com/challenges/the-needle
 # Day-205 [22-06-2023]
-- [ ]
+- [x] https://tryhackme.com/room/harder
 # Day-206 [23-06-2023]
-- [ ]
+- [x] https://tryhackme.com/room/recovery
 # Day-207 [24-06-2023]
 - [x] https://tryhackme.com/room/snortchallenges2
 # Day-208 [25-06-2023]
-- [ ] 
+- [ ] https://tryhackme.com/room/yearofthedog
 # Day-209 [26-06-2023]
 - [x] https://tryhackme.com/room/cmspit 
+# Day-210 [27-06-2023]
+- [x] https://tryhackme.com/room/classicpasswd
+# Day-211 [28-06-2023]
+- [x] https://tryhackme.com/room/forensics
+# Day-212 [29-06-2023]
+- [x]  https://app.hackthebox.com/machines/Pilgrimage 
+# Day-213 [30-06-2023]
+- [x] https://tryhackme.com/room/vulnnetdotjar
+# Day-214 [01-07-2023]
+- [x] https://tryhackme.com/room/sustah 
+# Day-215 [02-07-2023]
+- [x] https://tryhackme.com/room/theserverfromhell
+# Day-216 [03-07-2023]
+- [x] https://tryhackme.com/room/aster
+# Day-217 [04-07-2023]
+-[x] https://tryhackme.com/room/biteme
