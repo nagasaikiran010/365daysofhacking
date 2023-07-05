@@ -533,7 +533,7 @@
 # Day-207 [24-06-2023]
 - [x] https://tryhackme.com/room/snortchallenges2
 # Day-208 [25-06-2023]
-- [ ] https://tryhackme.com/room/yearofthedog
+- [x] https://tryhackme.com/room/yearofthedog
 # Day-209 [26-06-2023]
 - [x] https://tryhackme.com/room/cmspit 
 # Day-210 [27-06-2023]
@@ -551,4 +551,6 @@
 # Day-216 [03-07-2023]
 - [x] https://tryhackme.com/room/aster
 # Day-217 [04-07-2023]
--[x] https://tryhackme.com/room/biteme
+- [x] https://tryhackme.com/room/biteme
+# Day-218 [05-07-2023]
+- [x] https://tryhackme.com/room/coldvvars
