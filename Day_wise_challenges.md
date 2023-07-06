@@ -541,7 +541,7 @@
 # Day-211 [28-06-2023]
 - [x] https://tryhackme.com/room/forensics
 # Day-212 [29-06-2023]
-- [x]  https://app.hackthebox.com/machines/Pilgrimage 
+- [x] https://app.hackthebox.com/machines/Pilgrimage 
 # Day-213 [30-06-2023]
 - [x] https://tryhackme.com/room/vulnnetdotjar
 # Day-214 [01-07-2023]
@@ -554,3 +554,5 @@
 - [x] https://tryhackme.com/room/biteme
 # Day-218 [05-07-2023]
 - [x] https://tryhackme.com/room/coldvvars
+# Day-219 [06-07-2023]
+- [x] https://app.hackthebox.com/challenges/bypass
