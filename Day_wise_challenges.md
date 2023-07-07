@@ -558,3 +558,5 @@
 - [x] https://app.hackthebox.com/challenges/bypass
 # Day-220 [07-07-2023]
 - [x] https://tryhackme.com/room/annie
+# Day-221 [08-07-2023]
+- [x] https://tryhackme.com/room/chronicle
