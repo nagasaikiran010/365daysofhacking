@@ -556,3 +556,5 @@
 - [x] https://tryhackme.com/room/coldvvars
 # Day-219 [06-07-2023]
 - [x] https://app.hackthebox.com/challenges/bypass
+# Day-220 [07-07-2023]
+- [x] https://tryhackme.com/room/annie
