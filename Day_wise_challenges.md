@@ -560,7 +560,3 @@
 - [x] https://tryhackme.com/room/annie
 # Day-221 [08-07-2023]
 - [x] https://tryhackme.com/room/chronicle
-# Day-222 [09-07-2023]
-- [x] https://tryhackme.com/room/broker
-# Day-22 [10-07-2023]
-- [x] https://tryhackme.com/room/lunizzctfnd
