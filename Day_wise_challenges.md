@@ -569,4 +569,6 @@
 # Day-225 [12-07-2023]
 - [X] https://tryhackme.com/room/superspamr
 # Day-226 [13-07-2023]
--[x] https://tryhackme.com/room/islandorchestration
+- [x] https://tryhackme.com/room/islandorchestration
+# Day-227 [14-07-2023]
+- [x] https://tryhackme.com/room/catpictures2
