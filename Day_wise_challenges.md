@@ -572,3 +572,5 @@
 - [x] https://tryhackme.com/room/islandorchestration
 # Day-227 [14-07-2023]
 - [x] https://tryhackme.com/room/catpictures2
+# Day-228 [15-07-2023]
+-[x] https://tryhackme.com/room/eavesdropper
