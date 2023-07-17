@@ -576,3 +576,5 @@
 - [x] https://app.hackthebox.com/challenges/apkey
 # Day-229 [16-07-2023]
 - [x] https://tryhackme.com/room/templates
+# Day-230 [17-07-2023]
+- [x] https://tryhackme.com/room/safezone
