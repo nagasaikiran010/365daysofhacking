@@ -578,3 +578,7 @@
 - [x] https://tryhackme.com/room/templates
 # Day-230 [17-07-2023]
 - [x] https://tryhackme.com/room/safezone
+# Day-231 [18-07-2023]
+- [x] https://app.hackthebox.com/challenges/Jeeves
+# Day-232 [19-07-2023]
+- [x] https://tryhackme.com/room/weasel
