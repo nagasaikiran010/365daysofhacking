@@ -582,3 +582,7 @@
 - [x] https://app.hackthebox.com/challenges/Jeeves
 # Day-232 [19-07-2023]
 - [x] https://tryhackme.com/room/weasel
+# Day-233 [20-07-2023]
+- [x] https://tryhackme.com/room/cybercrafted
+# Day-234 [21-07-2023]
+- [x] https://tryhackme.com/room/olympusroom
