@@ -586,3 +586,5 @@
 - [x] https://tryhackme.com/room/cybercrafted
 # Day-234 [21-07-2023]
 - [x] https://tryhackme.com/room/olympusroom
+# Day-235 [22-07-2023]
+- [x] https://tryhackme.com/room/eavesdropper 
