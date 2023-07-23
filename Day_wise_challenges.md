@@ -588,3 +588,5 @@
 - [x] https://tryhackme.com/room/olympusroom
 # Day-235 [22-07-2023]
 - [x] https://tryhackme.com/room/eavesdropper 
+# Day-236 [23-07-2023]
+- [x] https://tryhackme.com/room/binaryheaven
