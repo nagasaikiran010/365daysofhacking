@@ -646,3 +646,5 @@
 - [x] https://tryhackme.com/room/vulnnetdotpy
 # Day-264 [20-08-2023]
 - [x] https://tryhackme.com/room/pwn101
+# Day-265 [21-08-2023]
+- [x] https://tryhackme.com/room/stuxctf
