@@ -650,3 +650,8 @@
 - [x] https://tryhackme.com/room/stuxctf
 # Day-266 [22-08-2023]
 - [x] https://tryhackme.com/room/unstabletwin
+
+
+https://tryhackme.com/room/wwbuddy
+
+https://tryhackme.com/room/thecodcaper
