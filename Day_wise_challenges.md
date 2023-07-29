@@ -644,3 +644,5 @@
 - [x] https://tryhackme.com/room/vulnnetactive
 # Day-263 [19-08-2023]
 - [x] https://tryhackme.com/room/vulnnetdotpy
+# Day-264 [20-08-2023]
+- [x] https://tryhackme.com/room/pwn101
