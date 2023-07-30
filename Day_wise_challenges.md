@@ -660,6 +660,7 @@
 - [x] https://tryhackme.com/room/containme1
 # Day-271 [27-08-2023]
 - [x] https://tryhackme.com/room/labyrinth8llv
-
-https://tryhackme.com/room/palsforlife
-https://tryhackme.com/room/raceconditions
+# Day-272 [28-08-2023]
+- [x] https://tryhackme.com/room/palsforlife
+# Day-273 [29-08-2023]
+- [x] https://tryhackme.com/room/raceconditions
