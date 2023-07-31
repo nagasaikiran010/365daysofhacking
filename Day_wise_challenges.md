@@ -664,3 +664,5 @@
 - [x] https://tryhackme.com/room/palsforlife
 # Day-273 [29-08-2023]
 - [x] https://tryhackme.com/room/raceconditions
+# Day-274 [30-08-2023]
+- [x] https://tryhackme.com/room/dunklematerieptxc9
