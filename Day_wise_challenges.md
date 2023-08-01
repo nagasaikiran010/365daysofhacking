@@ -607,7 +607,7 @@
 # Day-244 [31-07-2023]
 - [x] https://tryhackme.com/room/mastermindsxlq 
 # Day-245 [01-08-2023]
-- [x] https://tryhackme.com/room/yearofthejellyfish
+- [x] https://app.hackthebox.com/machines/MonitorsTwo
 # Day-246 [02-08-2023]
 - [x] https://tryhackme.com/room/yotf 
 # Day-247 [03-08-2023]
@@ -666,3 +666,7 @@
 - [x] https://tryhackme.com/room/raceconditions
 # Day-274 [30-08-2023]
 - [x] https://tryhackme.com/room/dunklematerieptxc9
+# Day-275 [31-08-2023]
+- [x] https://tryhackme.com/room/yearofthejellyfish
+# Day-276 [01-09-2023]
+- [x] https://tryhackme.com/room/sighunt
