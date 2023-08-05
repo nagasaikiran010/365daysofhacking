@@ -670,3 +670,13 @@
 - [x] https://tryhackme.com/room/yearofthejellyfish
 # Day-276 [01-09-2023]
 - [x] https://tryhackme.com/room/sighunt
+# Day-277 [02-09-2023]
+- [x] https://tryhackme.com/room/defensivesecurity
+# Day-278 [03-09-2023]
+- [x] https://tryhackme.com/room/windowsprivesc20#
+# Day-279 [04-09-2023]
+- [x] https://tryhackme.com/room/networkservices2
+# Day-280 [05-09-2023]
+- [x] https://tryhackme.com/room/steelmountain
+# Day-281 [05-09-2023]
+- [x] https://tryhackme.com/room/toolsrus
