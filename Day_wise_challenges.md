@@ -619,7 +619,7 @@
 # Day-250 [06-08-2023]
 - [x] https://tryhackme.com/room/snort
 # Day-251 [07-08-2023]
-- [x] https://tryhackme.com/room/warzoneone
+- [x] https://app.hackthebox.com/challenges/146
 # Day-252 [08-08-2023]
 - [x] https://tryhackme.com/room/posheclipse
 # Day-253 [09-08-2023]
@@ -680,3 +680,5 @@
 - [x] https://tryhackme.com/room/steelmountain
 # Day-281 [05-09-2023]
 - [x] https://tryhackme.com/room/toolsrus
+# Day-282 [06-09-2023]
+- [x] https://tryhackme.com/room/warzoneone
