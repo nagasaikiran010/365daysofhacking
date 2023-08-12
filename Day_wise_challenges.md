@@ -698,3 +698,9 @@
 - [x] https://tryhackme.com/room/adana
 # Day-290 [15-09-2023]
 - [x] https://tryhackme.com/room/borderlands
+# Day-291 [16-09-2023]
+- [x] https://tryhackme.com/room/hackpark
+# Day-292 [17-09-2023]
+- [x] https://tryhackme.com/room/powershell
+# Day-293 [18-09-2023]
+- [x] https://tryhackme.com/room/brainstorm
