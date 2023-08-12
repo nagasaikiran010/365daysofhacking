@@ -629,7 +629,7 @@
 # Day-255 [11-08-2023]
 - [x] https://tryhackme.com/room/printnightmarec3kj
 # Day-256 [12-08-2023]
-- [x] https://tryhackme.com/room/nahamstore
+- [x] https://app.hackthebox.com/challenges/toxin
 # Day-257 [13-08-2023]
 - [x] https://tryhackme.com/room/sweettoothinc
 # Day-258 [14-08-2023]
@@ -704,3 +704,5 @@
 - [x] https://tryhackme.com/room/powershell
 # Day-293 [18-09-2023]
 - [x] https://tryhackme.com/room/brainstorm
+# Day-294 [19-09-2023]
+- [x] https://tryhackme.com/room/nahamstore
