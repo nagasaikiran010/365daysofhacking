@@ -706,3 +706,25 @@
 - [x] https://tryhackme.com/room/brainstorm
 # Day-294 [19-09-2023]
 - [x] https://tryhackme.com/room/nahamstore
+
+https://tryhackme.com/room/heartbleed
+https://tryhackme.com/room/itsybitsy
+https://tryhackme.com/room/allsignspoint2pwnage 
+https://tryhackme.com/room/nonamectf
+https://tryhackme.com/room/osiris
+https://tryhackme.com/room/tempusfugitdurius
+https://tryhackme.com/room/ra2
+https://tryhackme.com/room/biblioteca
+https://tryhackme.com/room/ettubrute
+https://tryhackme.com/room/keldagrim
+https://tryhackme.com/room/nappingis1337
+https://tryhackme.com/room/set
+https://tryhackme.com/room/temple
+https://tryhackme.com/room/res
+https://tryhackme.com/room/snortchallenges1
+https://tryhackme.com/room/binex
+https://tryhackme.com/room/investigatingwithsplunk
+https://tryhackme.com/room/zeekbroexercises
+https://tryhackme.com/room/scripting
+https://tryhackme.com/room/benign
+https://tryhackme.com/room/jack
