@@ -678,3 +678,5 @@
 - [x] https://tryhackme.com/room/networkservices2
 # Day-280 [05-09-2023]
 - [x] https://tryhackme.com/room/steelmountain
+# Day-281 [06-09-2023]
+- [x] https://tryhackme.com/room/toolsrus
