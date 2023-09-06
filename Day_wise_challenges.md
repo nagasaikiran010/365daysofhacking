@@ -680,3 +680,5 @@
 - [x] https://tryhackme.com/room/steelmountain
 # Day-281 [06-09-2023]
 - [x] https://tryhackme.com/room/toolsrus
+# Day-282 [07-09-2023]
+- [x] https://tryhackme.com/room/warzoneone
