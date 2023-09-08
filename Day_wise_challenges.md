@@ -682,3 +682,5 @@
 - [x] https://tryhackme.com/room/toolsrus
 # Day-282 [07-09-2023]
 - [x] https://tryhackme.com/room/warzoneone
+# Day-283 [08-09-2023]
+- [x] https://tryhackme.com/room/newhireoldartifacts
