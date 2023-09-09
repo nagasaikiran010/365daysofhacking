@@ -684,3 +684,5 @@
 - [x] https://tryhackme.com/room/warzoneone
 # Day-283 [08-09-2023]
 - [x] https://tryhackme.com/room/newhireoldartifacts
+# Day-284 [09-09-2023]
+- [x] https://app.hackthebox.com/machines/CozyHosting
