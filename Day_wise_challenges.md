@@ -688,3 +688,5 @@
 - [x] https://app.hackthebox.com/machines/CozyHosting
 # Day-285 [10-09-2023]
 - [x] https://tryhackme.com/room/hamlet
+# Day-286 [11-09-2023]
+- [x] https://tryhackme.com/room/forgottenimplant
