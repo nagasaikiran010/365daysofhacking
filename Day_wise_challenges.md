@@ -690,3 +690,5 @@
 - [x] https://tryhackme.com/room/hamlet
 # Day-286 [11-09-2023]
 - [x] https://tryhackme.com/room/forgottenimplant
+# Day-287 [12-09-2023]
+- [x] https://tryhackme.com/room/pylonzf
