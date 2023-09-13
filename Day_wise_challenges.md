@@ -692,3 +692,5 @@
 - [x] https://tryhackme.com/room/forgottenimplant
 # Day-287 [12-09-2023]
 - [x] https://tryhackme.com/room/pylonzf
+# Day-288 [13-09-2023]
+- [x] https://tryhackme.com/room/fortress
