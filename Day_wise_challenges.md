@@ -694,3 +694,5 @@
 - [x] https://tryhackme.com/room/pylonzf
 # Day-288 [13-09-2023]
 - [x] https://tryhackme.com/room/fortress
+# Day-289 [14-09-2023]
+- [x] https://tryhackme.com/room/adana
