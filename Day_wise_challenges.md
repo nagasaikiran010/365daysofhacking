@@ -696,3 +696,5 @@
 - [x] https://tryhackme.com/room/fortress
 # Day-289 [14-09-2023]
 - [x] https://tryhackme.com/room/adana
+# Day-290 [15-09-2023]
+- [x] https://tryhackme.com/room/borderlands
