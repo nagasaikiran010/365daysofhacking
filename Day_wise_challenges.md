@@ -706,3 +706,5 @@
 - [x] https://tryhackme.com/room/brainstorm
 # Day-294 [19-09-2023]
 - [x] https://tryhackme.com/room/nahamstore
+# Day-284 [20-09-2023]
+- [x] https://tryhackme.com/room/thatstheticket
