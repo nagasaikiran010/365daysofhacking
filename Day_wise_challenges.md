@@ -706,5 +706,7 @@
 - [x] https://tryhackme.com/room/brainstorm
 # Day-294 [19-09-2023]
 - [x] https://tryhackme.com/room/nahamstore
-# Day-284 [20-09-2023]
+# Day-295 [20-09-2023]
 - [x] https://tryhackme.com/room/thatstheticket
+# Day-296 [21-09-2023]
+- [x] https://play.picoctf.org/practice/challenge/363?page=1&search=per&solved=0
