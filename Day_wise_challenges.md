@@ -712,3 +712,7 @@
 - [x] https://play.picoctf.org/practice/challenge/363?page=1&search=per&solved=0
 # Day-297 [22-09-2023]
 - [x] https://tryhackme.com/room/pythonplayground
+# Day-298 [23-09-2023]
+- [x] https://tryhackme.com/room/weaponization
+# Day-299 [24-09-2023]
+- [x] https://tryhackme.com/room/cherryblossom
