@@ -716,3 +716,6 @@
 - [x] https://tryhackme.com/room/weaponization
 # Day-299 [24-09-2023]
 - [x] https://tryhackme.com/room/cherryblossom
+# Day-300 [25-09-2023]
+- [ ] https://app.hackthebox.com/challenges/easterbunny
+
