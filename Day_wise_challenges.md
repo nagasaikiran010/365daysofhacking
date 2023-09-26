@@ -717,5 +717,6 @@
 # Day-299 [24-09-2023]
 - [x] https://tryhackme.com/room/cherryblossom
 # Day-300 [25-09-2023]
-- [ ] https://app.hackthebox.com/challenges/easterbunny
-
+- [x] https://app.hackthebox.com/challenges/easterbunny
+# Day-301 [26-09-2023]
+- [x] https://app.hackthebox.com/challenges/neonify
