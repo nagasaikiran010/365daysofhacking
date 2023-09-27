@@ -720,3 +720,5 @@
 - [x] https://app.hackthebox.com/challenges/easterbunny
 # Day-301 [26-09-2023]
 - [x] https://app.hackthebox.com/challenges/neonify
+# Day-302 [27-09-2023]
+- [x] https://tryhackme.com/room/atlas
