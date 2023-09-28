@@ -722,3 +722,5 @@
 - [x] https://app.hackthebox.com/challenges/neonify
 # Day-302 [27-09-2023]
 - [x] https://tryhackme.com/room/atlas
+# Day-303 [28-09-2023]
+- [x] https://app.hackthebox.com/challenges/461
