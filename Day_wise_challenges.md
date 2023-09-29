@@ -724,3 +724,5 @@
 - [x] https://tryhackme.com/room/atlas
 # Day-303 [28-09-2023]
 - [x] https://app.hackthebox.com/challenges/461
+# Day-304 [29-09-2023]
+- [x] https://app.hackthebox.com/challenges/462
