@@ -726,3 +726,5 @@
 - [x] https://app.hackthebox.com/challenges/461
 # Day-304 [29-09-2023]
 - [x] https://app.hackthebox.com/challenges/462
+# Day-305 [30-09-2023]
+- [x] https://app.hackthebox.com/challenges/470
