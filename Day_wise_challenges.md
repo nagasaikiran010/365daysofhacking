@@ -730,3 +730,5 @@
 - [x] https://app.hackthebox.com/challenges/470
 # Day-306 [01-10-2023]
 - [x] https://app.hackthebox.com/challenges/475
+# Day-307 [02-10-2023]
+- [x] https://app.hackthebox.com/challenges/m0rsarchive
