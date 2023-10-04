@@ -734,3 +734,5 @@
 - [x] https://app.hackthebox.com/challenges/m0rsarchive
 # Day-308 [03-10-2023]
 - [x] https://app.hackthebox.com/challenges/obfsc4t10n
+# Day-309 [04-10-2023]
+- [x] https://app.hackthebox.com/challenges/365
