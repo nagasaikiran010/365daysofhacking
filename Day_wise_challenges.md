@@ -736,3 +736,5 @@
 - [x] https://app.hackthebox.com/challenges/obfsc4t10n
 # Day-309 [04-10-2023]
 - [x] https://app.hackthebox.com/challenges/365
+# Day-310 [05-10-2023]
+- [x] https://app.hackthebox.com/challenges/485
