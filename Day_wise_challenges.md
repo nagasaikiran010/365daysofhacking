@@ -738,3 +738,4 @@
 - [x] https://app.hackthebox.com/challenges/365
 # Day-310 [05-10-2023]
 - [x] https://app.hackthebox.com/challenges/485
+- [x] https://app.hackthebox.com/challenges/143
