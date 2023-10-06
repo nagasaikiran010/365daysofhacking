@@ -739,3 +739,5 @@
 # Day-310 [05-10-2023]
 - [x] https://app.hackthebox.com/challenges/485
 - [x] https://app.hackthebox.com/challenges/143
+# Day-311 [06-10-2023]
+- [x] https://app.hackthebox.com/challenges/491
