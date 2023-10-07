@@ -741,3 +741,5 @@
 - [x] https://app.hackthebox.com/challenges/143
 # Day-311 [06-10-2023]
 - [x] https://app.hackthebox.com/challenges/491
+# Day-312 [07-10-2023]
+- [x] https://app.hackthebox.com/challenges/the-last-dance
