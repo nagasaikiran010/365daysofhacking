@@ -747,3 +747,4 @@
 - [x] https://app.hackthebox.com/challenges/477
 # Day-314 [09-10-2023]
 - [x] https://app.hackthebox.com/challenges/479
+- [x] https://app.hackthebox.com/challenges/478
