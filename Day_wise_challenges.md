@@ -752,3 +752,5 @@
 - [x] https://app.hackthebox.com/challenges/480
 # Day-316 [11-10-2023]
 - [x] https://app.hackthebox.com/challenges/481
+# Day-317 [12-10-2023]
+- [x] https://app.hackthebox.com/challenges/482
