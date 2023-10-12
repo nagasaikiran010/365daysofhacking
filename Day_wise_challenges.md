@@ -758,3 +758,4 @@
 - [x] https://app.hackthebox.com/challenges/486
 - [x] https://app.hackthebox.com/challenges/483
 - [X] https://app.hackthebox.com/challenges/493
+- [X] https://app.hackthebox.com/challenges/494
