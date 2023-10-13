@@ -1,4 +1,4 @@
-[# Day-1 [30-11-2022]
+# Day-1 [30-11-2022]
 - [x] https://tryhackme.com/room/attacktivedirectory 
 # Day-2 [01-12-2022]
 - [x]  https://tryhackme.com/room/adventofcyber4 - DAY-1
@@ -759,3 +759,5 @@
 - [x] https://app.hackthebox.com/challenges/483
 - [X] https://app.hackthebox.com/challenges/493
 - [X] https://app.hackthebox.com/challenges/494
+# Day-318 [13-10-2023]
+- [x] https://app.hackthebox.com/machines/Analytics
