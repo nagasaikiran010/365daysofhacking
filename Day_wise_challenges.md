@@ -761,3 +761,5 @@
 - [X] https://app.hackthebox.com/challenges/494
 # Day-318 [13-10-2023]
 - [x] https://app.hackthebox.com/machines/Analytics
+# Day-319 [14-10-2023]
+- [x] https://app.hackthebox.com/challenges/414
