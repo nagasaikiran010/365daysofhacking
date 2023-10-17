@@ -767,3 +767,5 @@
 - [x] https://app.hackthebox.com/challenges/412
 # Day-321 [16-10-2023]
 - [x] https://app.hackthebox.com/challenges/411
+# Day-322 [17-10-2023]
+- [x] https://app.hackthebox.com/challenges/407
