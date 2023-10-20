@@ -773,3 +773,5 @@
 - [x] https://app.hackthebox.com/challenges/406
 # Day-324 [19-10-2023]
 - [x] https://app.hackthebox.com/challenges/405
+# Day-325 [20-10-2023]
+- [x] https://app.hackthebox.com/challenges/423
