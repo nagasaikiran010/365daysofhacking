@@ -775,3 +775,5 @@
 - [x] https://app.hackthebox.com/challenges/405
 # Day-325 [20-10-2023]
 - [x] https://app.hackthebox.com/challenges/423
+# Day-326 [21-10-2023]
+- [x] https://app.hackthebox.com/challenges/422
