@@ -779,6 +779,6 @@
 - [x] https://app.hackthebox.com/challenges/422
 # Day-327 [22-10-2023]
 - [x] https://app.hackthebox.com/challenges/421
-# Day-327 [22-10-2023]
+# Day-328 [23-10-2023]
 - [x] https://app.hackthebox.com/challenges/410
 - [x] https://app.hackthebox.com/challenges/419
