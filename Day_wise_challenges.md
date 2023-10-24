@@ -782,3 +782,5 @@
 # Day-328 [23-10-2023]
 - [x] https://app.hackthebox.com/challenges/410
 - [x] https://app.hackthebox.com/challenges/419
+# Day-329 [24-10-2023]
+- [x] https://app.hackthebox.com/challenges/416
