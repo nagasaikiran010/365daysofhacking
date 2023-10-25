@@ -784,3 +784,7 @@
 - [x] https://app.hackthebox.com/challenges/419
 # Day-329 [24-10-2023]
 - [x] https://app.hackthebox.com/challenges/416
+# Day-330 [25-10-2023]
+- [x] https://app.hackthebox.com/challenges/418
+- [x] https://app.hackthebox.com/challenges/415
+- [x] https://app.hackthebox.com/challenges/417
