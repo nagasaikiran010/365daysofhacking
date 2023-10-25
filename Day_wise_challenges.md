@@ -788,3 +788,4 @@
 - [x] https://app.hackthebox.com/challenges/418
 - [x] https://app.hackthebox.com/challenges/415
 - [x] https://app.hackthebox.com/challenges/417
+- [X] https://app.hackthebox.com/challenges/420
