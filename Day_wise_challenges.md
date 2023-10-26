@@ -790,3 +790,5 @@
 - [x] https://app.hackthebox.com/challenges/417
 - [X] https://app.hackthebox.com/challenges/420
 - [X] https://app.hackthebox.com/challenges/425
+# Day-331 [26-10-2023]
+- [x] https://app.hackthebox.com/challenges/320
