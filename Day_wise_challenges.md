@@ -800,3 +800,5 @@
 - [x] https://app.hackthebox.com/challenges/318
 # Day-335 [30-10-2023]
 - [x] https://app.hackthebox.com/challenges/322
+# Day-336 [31-10-2023]
+- [x] https://app.hackthebox.com/challenges/33
