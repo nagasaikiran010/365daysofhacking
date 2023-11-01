@@ -802,3 +802,5 @@
 - [x] https://app.hackthebox.com/challenges/322
 # Day-336 [31-10-2023]
 - [x] https://app.hackthebox.com/challenges/33
+# Day-337 [01-11-2023]
+- [x] https://app.hackthebox.com/challenges/138
