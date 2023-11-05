@@ -808,5 +808,7 @@
 - [x] https://app.hackthebox.com/challenges/129
 # Day-339 [03-11-2023]
 - [x] https://app.hackthebox.com/challenges/41
-# Day-339 [03-11-2023]
+# Day-340 [04-11-2023]
 - [x] https://app.hackthebox.com/challenges/225
+# Day-341 [05-11-2023]
+- [x] https://app.hackthebox.com/challenges/128
