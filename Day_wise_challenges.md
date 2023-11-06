@@ -812,3 +812,5 @@
 - [x] https://app.hackthebox.com/challenges/225
 # Day-341 [05-11-2023]
 - [x] https://app.hackthebox.com/challenges/128
+# Day-342 [06-11-2023]
+- [x] https://app.hackthebox.com/challenges/gunship
