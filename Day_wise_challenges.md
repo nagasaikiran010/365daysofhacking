@@ -818,3 +818,5 @@
 - [x] https://app.hackthebox.com/challenges/53
 # Day-344 [08-11-2023]
 - [x] https://app.hackthebox.com/challenges/222
+# Day-345 [09-11-2023]
+- [x] https://app.hackthebox.com/challenges/4
