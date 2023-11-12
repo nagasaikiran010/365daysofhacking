@@ -822,5 +822,7 @@
 - [x] https://app.hackthebox.com/challenges/4
 # Day-346 [10-11-2023]
 - [x] https://app.hackthebox.com/challenges/72
-# Day-347 [111-11-2023]
+# Day-347 [11-11-2023]
 - [x] https://app.hackthebox.com/challenges/92
+# Day-348 [12-11-2023]
+- [x] https://app.hackthebox.com/challenges/112
