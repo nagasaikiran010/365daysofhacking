@@ -834,3 +834,5 @@
 - [x] https://app.hackthebox.com/challenges/244
 # Day-352 [16-11-2023]
 - [x] https://app.hackthebox.com/challenges/Slippy/
+# Day-353 [17-11-2023]
+- [x] https://app.hackthebox.com/challenges/spiky-tamagotchi
