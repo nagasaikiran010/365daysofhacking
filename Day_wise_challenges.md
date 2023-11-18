@@ -839,3 +839,5 @@
 - [x] https://app.hackthebox.com/challenges/renderquest
 - [x] https://app.hackthebox.com/challenges/apacheblaze
 - [x] https://app.hackthebox.com/challenges/jscalc
+# Day-354 [18-11-2023]
+- [x] https://app.hackthebox.com/challenges/intergalactic-post
