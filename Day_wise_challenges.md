@@ -841,3 +841,5 @@
 - [x] https://app.hackthebox.com/challenges/jscalc
 # Day-354 [18-11-2023]
 - [x] https://app.hackthebox.com/challenges/intergalactic-post
+# Day-355 [19-11-2023]
+- [x] https://app.hackthebox.com/challenges/oxidized-rop
