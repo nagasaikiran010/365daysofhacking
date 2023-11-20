@@ -843,3 +843,5 @@
 - [x] https://app.hackthebox.com/challenges/intergalactic-post
 # Day-355 [19-11-2023]
 - [x] https://app.hackthebox.com/challenges/oxidized-rop
+# Day-356 [20-11-2023]
+- [x] https://app.hackthebox.com/challenges/cryptohorrific
