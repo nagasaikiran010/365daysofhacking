@@ -845,3 +845,5 @@
 - [x] https://app.hackthebox.com/challenges/oxidized-rop
 # Day-356 [20-11-2023]
 - [x] https://app.hackthebox.com/challenges/cryptohorrific
+# Day-357 [21-11-2023]
+- [x] https://app.hackthebox.com/challenges/console
