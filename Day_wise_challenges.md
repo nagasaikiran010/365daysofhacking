@@ -850,3 +850,5 @@
 - [x] https://app.hackthebox.com/challenges/cryptohorrific
 # Day-358 [22-11-2023]
 - [x] https://app.hackthebox.com/challenges/xorxorxor
+# Day-359 [23-11-2023]
+- [x] https://app.hackthebox.com/challenges/202
