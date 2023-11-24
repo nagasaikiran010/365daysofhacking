@@ -852,3 +852,5 @@
 - [x] https://app.hackthebox.com/challenges/xorxorxor
 # Day-359 [23-11-2023]
 - [x] https://app.hackthebox.com/challenges/202
+# Day-360 [24-11-2023]
+- [x] https://app.hackthebox.com/challenges/dont-overreact
