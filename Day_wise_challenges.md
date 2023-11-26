@@ -856,3 +856,5 @@
 - [x] https://app.hackthebox.com/challenges/dont-overreact
 # Day-361 [25-11-2023]
 - [x] https://app.hackthebox.com/challenges/241
+# Day-362 [26-11-2023]
+- [x] https://app.hackthebox.com/challenges/unique
