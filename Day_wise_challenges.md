@@ -859,3 +859,5 @@
 # Day-362 [26-11-2023]
 - [x] https://app.hackthebox.com/challenges/unique
 - [x] https://app.hackthebox.com/challenges/secure-digital
+# Day-363 [27-11-2023]
+- [x] https://app.hackthebox.com/challenges/tear-or-dear
