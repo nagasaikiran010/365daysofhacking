@@ -863,3 +863,5 @@
 - [x] https://app.hackthebox.com/challenges/tear-or-dear
 # Day-364 [28-11-2023]
 - [x] https://app.hackthebox.com/challenges/red-miners
+# Day-365 [29-11-2023]
+- [x] https://app.hackthebox.com/challenges/ont
