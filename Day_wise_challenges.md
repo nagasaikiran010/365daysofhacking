@@ -865,3 +865,4 @@
 - [x] https://app.hackthebox.com/challenges/red-miners
 # Day-365 [29-11-2023]
 - [x] https://app.hackthebox.com/challenges/ont
+https://app.hackthebox.com/challenges/cubemadness1
