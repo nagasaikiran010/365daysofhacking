@@ -871,4 +871,7 @@
 - [x] https://app.hackthebox.com/challenges/survival-of-the-fittest
 # Day-368 [02-12-2023]
 - [x] https://app.hackthebox.com/challenges/RAuth/
-#
+# Day-369 [03-12-2023]
+- [x] https://app.hackthebox.com/challenges/42
+# Day-370 [04-12-2023]
+- [x] https://app.hackthebox.com/challenges/109
