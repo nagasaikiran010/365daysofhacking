@@ -875,3 +875,5 @@
 - [x] https://app.hackthebox.com/challenges/42
 # Day-370 [04-12-2023]
 - [x] https://app.hackthebox.com/challenges/109
+# Day-371 [05-12-2023]
+- [x] https://app.hackthebox.com/challenges/mission-pinpossible
